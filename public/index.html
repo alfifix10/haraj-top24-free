@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>اعلانات حراج الأكثر تفاعل خلال 24 ساعة</title>
+  <style>
+    body{ font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans Arabic", Tahoma; margin:0; padding:16px; background:#0b1220; color:#e5e7eb; }
+    h1{ font-size:18px; margin:0 0 8px; text-align:center; }
+    .note{ font-size:12px; color:#9ca3af; text-align:center; }
+    .wrap{ max-width:1000px; margin:14px auto; }
+    table{ width:100%; border-collapse:collapse; font-size:13px; background:#0b1220; color:#e5e7eb; }
+    thead{ position:sticky; top:0; background:#111827; }
+    th, td{ border-bottom:1px solid #1f2937; padding:8px; vertical-align:top; text-align:right; }
+    a{ color:#93c5fd; text-decoration:underline; word-break:break-all; }
+    .muted{ color:#9ca3af; }
+    .ts{ font-size:12px; color:#9ca3af; margin:8px 0; text-align:center; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>اعلانات حراج الأكثر تفاعل خلال 24 ساعة</h1>
+    <div id="ts" class="ts"></div>
+    <div style="overflow:auto; border:1px solid #1f2937; border-radius:8px; max-height:70vh;">
+      <table>
+        <thead>
+          <tr><th>#</th><th>الردود</th><th>الوقت</th><th>المدينة</th><th>الوصف</th><th>الرابط</th></tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <p class="note">يتم تحديث القائمة دورياً كل 15 دقيقة عبر GitHub Actions.</p>
+  </div>
+  <script>
+    const rowsEl = document.getElementById('rows');
+    const tsEl = document.getElementById('ts');
+    const escapeHtml = (s='') => s.replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#039;'}[m]));
+    async function load() {
+      const url = '../data/top24.json?t=' + Date.now();
+      const r = await fetch(url, { cache:'no-store' });
+      const j = await r.json();
+      tsEl.textContent = j.updatedAt ? ('آخر تحديث: ' + new Date(j.updatedAt).toLocaleString('ar-SA', { timeZone: 'Asia/Riyadh' })) : '';
+      const items = Array.isArray(j.items)? j.items : [];
+      rowsEl.innerHTML = items.map((x, i) => `
+        <tr>
+          <td>${i+1}</td>
+          <td>${Number(x.latestReplies||x.replies||0)}</td>
+          <td>${escapeHtml(x.time||'غير محدد')}</td>
+          <td>${escapeHtml(x.city||'غير محدد')}</td>
+          <td>${escapeHtml(x.desc||'')}</td>
+          <td><a href="${escapeHtml(x.link||'')}" target="_blank" rel="noopener">فتح</a></td>
+        </tr>`).join('');
+    }
+    load().catch(console.error);
+  </script>
+</body>
+</html>

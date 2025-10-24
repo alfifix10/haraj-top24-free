@@ -1,0 +1,14 @@
+{
+  "name": "haraj-top24-free",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "scrape": "node scripts/scrape.js"
+  },
+  "dependencies": {
+    "puppeteer": "22.15.0",
+    "dayjs": "1.11.13"
+  }
+}
