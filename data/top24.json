@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-03T00:41:26.331Z",
+  "updatedAt": "2025-11-03T01:10:49.858Z",
   "count": 300,
   "items": [
     {
@@ -155,17 +155,6 @@
       "firstSeenAt": "2025-11-02T17:22:06.189Z",
       "lastSeenAt": "2025-11-02T17:22:06.189Z",
       "latestReplies": 78
-    },
-    {
-      "id": "1173248020",
-      "desc": "سمان فري لاحم بالخرج",
-      "city": "الخرج",
-      "time": "قبل ٥ دقائق",
-      "replies": 74,
-      "link": "https://haraj.com.sa/1173248020/%D8%B3%D9%85%D8%A7%D9%86_%D9%81%D8%B1%D9%8A_%D9%84%D8%A7%D8%AD%D9%85_%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%AC/",
-      "firstSeenAt": "2025-11-02T00:42:08.067Z",
-      "lastSeenAt": "2025-11-02T00:42:08.067Z",
-      "latestReplies": 74
     },
     {
       "id": "1186915394",
@@ -696,6 +685,17 @@
       "latestReplies": 31
     },
     {
+      "id": "11123591732",
+      "desc": "عفريته 15 طن كهربائية",
+      "city": "سكاكا",
+      "time": "قبل ٧ دقائق",
+      "replies": 31,
+      "link": "https://haraj.com.sa/11123591732/%D8%B9%D9%81%D8%B1%D9%8A%D8%AA%D9%87_15_%D8%B7%D9%86_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9/",
+      "firstSeenAt": "2025-11-03T01:10:49.858Z",
+      "lastSeenAt": "2025-11-03T01:10:49.858Z",
+      "latestReplies": 31
+    },
+    {
       "id": "11118542367",
       "desc": "مكائن غسيل ضغط عالي لافور و كارشر الاسعار تبدأ من 299ريال",
       "city": "الرياض",
@@ -814,17 +814,6 @@
       "link": "https://haraj.com.sa/11135578078/%D8%A8%D8%A8%D8%BA%D8%A7%D8%A1_%D8%AF%D8%B1%D8%A9_%D9%86%D9%8A%D8%A8%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1%D9%8A%D9%86/",
       "firstSeenAt": "2025-11-02T05:35:35.649Z",
       "lastSeenAt": "2025-11-02T05:35:35.649Z",
-      "latestReplies": 28
-    },
-    {
-      "id": "1161325943",
-      "desc": "خروف مشوي",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 28,
-      "link": "https://haraj.com.sa/1161325943/%D8%AE%D8%B1%D9%88%D9%81_%D9%85%D8%B4%D9%88%D9%8A/",
-      "firstSeenAt": "2025-11-02T00:42:08.067Z",
-      "lastSeenAt": "2025-11-02T00:42:08.067Z",
       "latestReplies": 28
     },
     {
@@ -1001,6 +990,17 @@
       "link": "https://haraj.com.sa/11146382208/%D8%AC%D9%8A%D8%A8_%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1_2018_V6_%D8%B4%D8%B1%D8%B7/",
       "firstSeenAt": "2025-11-02T22:22:25.811Z",
       "lastSeenAt": "2025-11-02T22:22:25.811Z",
+      "latestReplies": 26
+    },
+    {
+      "id": "11120770173",
+      "desc": "طباعة دي تي اف dtf يوجد بالمتر",
+      "city": "الرياض",
+      "time": "قبل ٦ دقائق",
+      "replies": 26,
+      "link": "https://haraj.com.sa/11120770173/%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9_%D8%AF%D9%8A_%D8%AA%D9%8A_%D8%A7%D9%81_dtf_%D9%8A%D9%88%D8%AC%D8%AF_%D8%A8%D8%A7%D9%84%D9%85%D8%AA%D8%B1/",
+      "firstSeenAt": "2025-11-03T01:10:49.858Z",
+      "lastSeenAt": "2025-11-03T01:10:49.858Z",
       "latestReplies": 26
     },
     {
@@ -1400,6 +1400,28 @@
       "latestReplies": 21
     },
     {
+      "id": "11154929534",
+      "desc": "دراجة رياضية",
+      "city": "أبها",
+      "time": "قبل دقيقة واحدة",
+      "replies": 21,
+      "link": "https://haraj.com.sa/11154929534/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9_%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
+      "firstSeenAt": "2025-11-03T01:10:49.858Z",
+      "lastSeenAt": "2025-11-03T01:10:49.858Z",
+      "latestReplies": 21
+    },
+    {
+      "id": "11132037247",
+      "desc": "ساعه تراثيه تعلق بسلسال في الرقبه وتوضع في جيب الثوب العلوي",
+      "city": "جده",
+      "time": "قبل ٤ دقائق",
+      "replies": 21,
+      "link": "https://haraj.com.sa/11132037247/%D8%B3%D8%A7%D8%B9%D9%87_%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D9%87_%D8%AA%D8%B9%D9%84%D9%82_%D8%A8%D8%B3%D9%84%D8%B3%D8%A7%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%B1%D9%82%D8%A8%D9%87_%D9%88%D8%AA%D9%88%D8%B6%D8%B9_%D9%81%D9%8A_%D8%AC%D9%8A%D8%A8_%D8%A7%D9%84%D8%AB%D9%88%D8%A8_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A/",
+      "firstSeenAt": "2025-11-03T01:10:49.858Z",
+      "lastSeenAt": "2025-11-03T01:10:49.858Z",
+      "latestReplies": 21
+    },
+    {
       "id": "11134156171",
       "desc": "شاليهات للأيجار الشهري",
       "city": "الرياض",
@@ -1639,17 +1661,6 @@
       "link": "https://haraj.com.sa/11129154266/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D9%84%D9%88%D8%AD%D8%A9_%D9%85%D9%85%D9%8A%D8%B2%D8%A9_%D9%81%D8%B1%D8%AF%D9%8A/",
       "firstSeenAt": "2025-11-02T23:47:54.494Z",
       "lastSeenAt": "2025-11-02T23:47:54.494Z",
-      "latestReplies": 20
-    },
-    {
-      "id": "11159199019",
-      "desc": "مايك شور (SM7B) الاصلي مع الفاتورة",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 20,
-      "link": "https://haraj.com.sa/11159199019/%D9%85%D8%A7%D9%8A%D9%83_%D8%B4%D9%88%D8%B1SM7B%D8%A7%D9%84%D8%A7%D8%B5%D9%84%D9%8A_%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9/",
-      "firstSeenAt": "2025-11-02T00:42:08.067Z",
-      "lastSeenAt": "2025-11-02T00:42:08.067Z",
       "latestReplies": 20
     },
     {
@@ -2321,6 +2332,17 @@
       "link": "https://haraj.com.sa/11168165411/%D9%86%D9%8A%D8%B3%D8%A7%D9%86_%D8%A8%D8%A7%D8%AA%D8%B1%D9%88%D9%84_1997/",
       "firstSeenAt": "2025-11-02T10:47:39.272Z",
       "lastSeenAt": "2025-11-02T10:47:39.272Z",
+      "latestReplies": 17
+    },
+    {
+      "id": "11167944519",
+      "desc": "هايلكس",
+      "city": "نجران",
+      "time": "قبل ٩ دقائق",
+      "replies": 17,
+      "link": "https://haraj.com.sa/11167944519/%D9%87%D8%A7%D9%8A%D9%84%D9%83%D8%B3/",
+      "firstSeenAt": "2025-11-03T01:10:49.858Z",
+      "lastSeenAt": "2025-11-03T01:10:49.858Z",
       "latestReplies": 17
     },
     {
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/11167124469/%D9%85%D8%B3%D8%AA%D9%88%D8%A8%D9%8A%D8%B4%D9%8A_L200_2008/",
       "firstSeenAt": "2025-11-02T23:33:01.310Z",
       "lastSeenAt": "2025-11-02T23:33:01.310Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "1147314780",
-      "desc": "مصبات شلالات بسعر مخفض ومداخن وطاولات وافران",
-      "city": "مكه",
-      "time": "قبل دقيقة واحدة",
-      "replies": 14,
-      "link": "https://haraj.com.sa/1147314780/%D9%85%D8%B5%D8%A8%D8%A7%D8%AA_%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D8%A8%D8%B3%D8%B9%D8%B1_%D9%85%D8%AE%D9%81%D8%B6_%D9%88%D9%85%D8%AF%D8%A7%D8%AE%D9%86_%D9%88%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA_%D9%88%D8%A7%D9%81%D8%B1%D8%A7%D9%86/",
-      "firstSeenAt": "2025-11-03T00:41:26.331Z",
-      "lastSeenAt": "2025-11-03T00:41:26.331Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11165102345",
-      "desc": "مطلوب شقة للايجار مستعجل",
-      "city": "بريدة",
-      "time": "قبل دقيقة واحدة",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11165102345/%D9%85%D8%B7%D9%84%D9%88%D8%A8_%D8%B4%D9%82%D8%A9_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1_%D9%85%D8%B3%D8%AA%D8%B9%D8%AC%D9%84/",
-      "firstSeenAt": "2025-11-02T19:03:29.012Z",
-      "lastSeenAt": "2025-11-02T19:03:29.012Z",
       "latestReplies": 14
     }
   ]
