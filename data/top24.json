@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2025-11-04T20:23:42.192Z",
+  "updatedAt": "2025-11-04T20:37:26.169Z",
   "count": 300,
   "items": [
-    {
-      "id": "1128522673",
-      "desc": "صنات آبار",
-      "city": "ضرما",
-      "time": "الآن",
-      "replies": 200,
-      "link": "https://haraj.com.sa/1128522673/%D8%B5%D9%86%D8%A7%D8%AA_%D8%A2%D8%A8%D8%A7%D8%B1/",
-      "firstSeenAt": "2025-11-03T20:36:21.750Z",
-      "lastSeenAt": "2025-11-03T20:36:21.750Z",
-      "latestReplies": 200
-    },
     {
       "id": "1154861719",
       "desc": "جدة تشليح بريمان سابقا الحمدانية حاليا",
@@ -100,17 +89,6 @@
       "firstSeenAt": "2025-11-04T04:37:26.381Z",
       "lastSeenAt": "2025-11-04T04:37:26.381Z",
       "latestReplies": 85
-    },
-    {
-      "id": "11148246545",
-      "desc": "معلم جبس بورد ديكور باكستاني",
-      "city": "جده",
-      "time": "قبل دقيقة واحدة",
-      "replies": 79,
-      "link": "https://haraj.com.sa/11148246545/%D9%85%D8%B9%D9%84%D9%85_%D8%AC%D8%A8%D8%B3_%D8%A8%D9%88%D8%B1%D8%AF_%D8%AF%D9%8A%D9%83%D9%88%D8%B1_%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A/",
-      "firstSeenAt": "2025-11-03T20:36:21.750Z",
-      "lastSeenAt": "2025-11-03T20:36:21.750Z",
-      "latestReplies": 79
     },
     {
       "id": "11121539798",
@@ -605,17 +583,6 @@
       "link": "https://haraj.com.sa/11129134178/%D8%AD%D9%84%D8%A8%D8%A9_%D8%A8%D9%84%D8%AF%D9%8A_%D8%B9%D8%B6%D9%88%D9%8A%D8%A9/",
       "firstSeenAt": "2025-11-04T10:39:27.987Z",
       "lastSeenAt": "2025-11-04T10:39:27.987Z",
-      "latestReplies": 31
-    },
-    {
-      "id": "11168091264",
-      "desc": "قكسار 1999",
-      "city": "المجمعة",
-      "time": "قبل دقيقتين",
-      "replies": 31,
-      "link": "https://haraj.com.sa/11168091264/%D9%82%D9%83%D8%B3%D8%A7%D8%B1_1999/",
-      "firstSeenAt": "2025-11-03T20:36:21.750Z",
-      "lastSeenAt": "2025-11-03T20:36:21.750Z",
       "latestReplies": 31
     },
     {
@@ -3300,6 +3267,39 @@
       "link": "https://haraj.com.sa/11151580376/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D9%87_%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7_%D9%85%D9%85%D8%AA%D8%A7%D8%B2_%D8%A8%D9%85%D8%AE%D8%B7%D8%B7_%D8%A7%D9%84%D8%B5%D9%88%D9%8A%D8%AF%D8%B1%D9%87/",
       "firstSeenAt": "2025-11-04T09:37:11.593Z",
       "lastSeenAt": "2025-11-04T09:37:11.593Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11167152038",
+      "desc": "اميال الفرسان ب 0.06",
+      "city": "جده",
+      "time": "قبل ٣ دقائق",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11167152038/%D8%A7%D9%85%D9%8A%D8%A7%D9%84_%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86_%D8%A8_0_06/",
+      "firstSeenAt": "2025-11-04T02:33:04.239Z",
+      "lastSeenAt": "2025-11-04T02:33:04.239Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11168562945",
+      "desc": "اوريون قراندي 2008 بودي بلد",
+      "city": "مكه",
+      "time": "قبل دقيقة واحدة",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11168562945/%D8%A7%D9%88%D8%B1%D9%8A%D9%88%D9%86_%D9%82%D8%B1%D8%A7%D9%86%D8%AF%D9%8A_2008_%D8%A8%D9%88%D8%AF%D9%8A_%D8%A8%D9%84%D8%AF/",
+      "firstSeenAt": "2025-11-04T15:23:34.830Z",
+      "lastSeenAt": "2025-11-04T15:23:34.830Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11153152941",
+      "desc": "باص 50 راكب للايجار (bus for rent",
+      "city": "المدينة",
+      "time": "قبل دقيقتين",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11153152941/%D8%A8%D8%A7%D8%B5_50_%D8%B1%D8%A7%D9%83%D8%A8_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1bus_for_rent/",
+      "firstSeenAt": "2025-11-04T13:30:38.193Z",
+      "lastSeenAt": "2025-11-04T13:30:38.193Z",
       "latestReplies": 13
     }
   ]
