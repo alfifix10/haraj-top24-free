@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-05T19:22:22.636Z",
+  "updatedAt": "2025-11-05T19:33:03.622Z",
   "count": 300,
   "items": [
     {
@@ -89,6 +89,17 @@
       "firstSeenAt": "2025-11-04T20:23:42.192Z",
       "lastSeenAt": "2025-11-04T20:23:42.192Z",
       "latestReplies": 124
+    },
+    {
+      "id": "1189298833",
+      "desc": "زغاليل حائل",
+      "city": "حائل",
+      "time": "قبل دقيقة واحدة",
+      "replies": 111,
+      "link": "https://haraj.com.sa/1189298833/%D8%B2%D8%BA%D8%A7%D9%84%D9%8A%D9%84_%D8%AD%D8%A7%D8%A6%D9%84/",
+      "firstSeenAt": "2025-11-05T19:33:03.622Z",
+      "lastSeenAt": "2025-11-05T19:33:03.622Z",
+      "latestReplies": 111
     },
     {
       "id": "11168915974",
@@ -861,6 +872,17 @@
       "latestReplies": 26
     },
     {
+      "id": "11121222500",
+      "desc": "للإجار ارض بمساحة 2600 م حي عتود على شارعين",
+      "city": "خميس مشيط",
+      "time": "قبل دقيقتين",
+      "replies": 26,
+      "link": "https://haraj.com.sa/11121222500/%D9%84%D9%84%D8%A5%D8%AC%D8%A7%D8%B1_%D8%A7%D8%B1%D8%B6_%D8%A8%D9%85%D8%B3%D8%A7%D8%AD%D8%A9_2600_%D9%85_%D8%AD%D9%8A_%D8%B9%D8%AA%D9%88%D8%AF_%D8%B9%D9%84%D9%89_%D8%B4%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/",
+      "firstSeenAt": "2025-11-05T19:33:03.622Z",
+      "lastSeenAt": "2025-11-05T19:33:03.622Z",
+      "latestReplies": 26
+    },
+    {
       "id": "11119060183",
       "desc": "لوحة ص ك ه 1",
       "city": "الرياض",
@@ -1620,6 +1642,17 @@
       "latestReplies": 20
     },
     {
+      "id": "11150991776",
+      "desc": "قطبه بيت شعر",
+      "city": "طبرجل",
+      "time": "قبل دقيقتين",
+      "replies": 20,
+      "link": "https://haraj.com.sa/11150991776/%D9%82%D8%B7%D8%A8%D9%87_%D8%A8%D9%8A%D8%AA_%D8%B4%D8%B9%D8%B1/",
+      "firstSeenAt": "2025-11-05T19:33:03.622Z",
+      "lastSeenAt": "2025-11-05T19:33:03.622Z",
+      "latestReplies": 20
+    },
+    {
       "id": "11119802832",
       "desc": "كوفيرة وميك اب ارتست سعودية فتحت حجوزات شهر4-5-6-7 الطائف",
       "city": "الطايف",
@@ -2313,6 +2346,17 @@
       "latestReplies": 16
     },
     {
+      "id": "1189145942",
+      "desc": "استراحه الجوري 2 بينبع",
+      "city": "ينبع",
+      "time": "قبل ٣ دقائق",
+      "replies": 16,
+      "link": "https://haraj.com.sa/1189145942/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D9%87_%D8%A7%D9%84%D8%AC%D9%88%D8%B1%D9%8A_2_%D8%A8%D9%8A%D9%86%D8%A8%D8%B9/",
+      "firstSeenAt": "2025-11-05T19:33:03.622Z",
+      "lastSeenAt": "2025-11-05T19:33:03.622Z",
+      "latestReplies": 16
+    },
+    {
       "id": "11116081710",
       "desc": "اصلاح عداد لكزس طبلون لكزس",
       "city": "مكه",
@@ -2607,6 +2651,17 @@
       "link": "https://haraj.com.sa/11165211716/%D8%A8%D8%A7%D8%AA%D8%B1%D9%88%D9%8493GL/",
       "firstSeenAt": "2025-11-05T00:13:26.762Z",
       "lastSeenAt": "2025-11-05T00:13:26.762Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11154683429",
+      "desc": "باسات 2020",
+      "city": "الرياض",
+      "time": "قبل ٣ دقائق",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11154683429/%D8%A8%D8%A7%D8%B3%D8%A7%D8%AA_2020/",
+      "firstSeenAt": "2025-11-05T19:33:03.622Z",
+      "lastSeenAt": "2025-11-05T19:33:03.622Z",
       "latestReplies": 15
     },
     {
@@ -3245,61 +3300,6 @@
       "link": "https://haraj.com.sa/11152906302/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9_%D8%B1%D9%85%D9%88%D8%AA_%D9%82%D9%88%D9%8A%D9%87_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1_%D9%84%D9%84%D8%A8%D8%B1_%D9%88%D8%B4%D8%A7%D8%B1%D8%B9/",
       "firstSeenAt": "2025-11-05T17:48:01.586Z",
       "lastSeenAt": "2025-11-05T17:48:01.586Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11167061595",
-      "desc": "سيارة هيونداي سنتافي 2008",
-      "city": "الدمام",
-      "time": "قبل ٣ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11167061595/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9_%D9%87%D9%8A%D9%88%D9%86%D8%AF%D8%A7%D9%8A_%D8%B3%D9%86%D8%AA%D8%A7%D9%81%D9%8A_2008/",
-      "firstSeenAt": "2025-11-05T05:23:20.085Z",
-      "lastSeenAt": "2025-11-05T05:23:20.085Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11116570329",
-      "desc": "شباري نايف محيسن لاصليه",
-      "city": "الرياض",
-      "time": "قبل ٤ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11116570329/%D8%B4%D8%A8%D8%A7%D8%B1%D9%8A_%D9%86%D8%A7%D9%8A%D9%81_%D9%85%D8%AD%D9%8A%D8%B3%D9%86_%D9%84%D8%A7%D8%B5%D9%84%D9%8A%D9%87/",
-      "firstSeenAt": "2025-11-04T22:36:00.492Z",
-      "lastSeenAt": "2025-11-04T22:36:00.492Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11167715547",
-      "desc": "شقة كبيرة للأيجار من 5 غرف ومطبخ جاهز بحي الصالحية جدة",
-      "city": "جده",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11167715547/%D8%B4%D9%82%D8%A9_%D9%83%D8%A8%D9%8A%D8%B1%D8%A9_%D9%84%D9%84%D8%A3%D9%8A%D8%AC%D8%A7%D8%B1_%D9%85%D9%86_5_%D8%BA%D8%B1%D9%81_%D9%88%D9%85%D8%B7%D8%A8%D8%AE_%D8%AC%D8%A7%D9%87%D8%B2_%D8%A8%D8%AD%D9%8A_%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D9%8A%D8%A9_%D8%AC%D8%AF%D8%A9/",
-      "firstSeenAt": "2025-11-05T16:52:21.619Z",
-      "lastSeenAt": "2025-11-05T16:52:21.619Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11167107726",
-      "desc": "شنطة عزبة وقز عينين للبيع",
-      "city": "بريدة",
-      "time": "قبل ٧ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11167107726/%D8%B4%D9%86%D8%B7%D8%A9_%D8%B9%D8%B2%D8%A8%D8%A9_%D9%88%D9%82%D8%B2_%D8%B9%D9%8A%D9%86%D9%8A%D9%86_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
-      "firstSeenAt": "2025-11-05T00:40:43.544Z",
-      "lastSeenAt": "2025-11-05T00:40:43.544Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11132201438",
-      "desc": "طابعة تيشيرتات وملابس ديجيتال Brother DTG",
-      "city": "جده",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11132201438/%D8%B7%D8%A7%D8%A8%D8%B9%D8%A9_%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA_%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3_%D8%AF%D9%8A%D8%AC%D9%8A%D8%AA%D8%A7%D9%84_Brother_DTG/",
-      "firstSeenAt": "2025-11-05T08:52:24.060Z",
-      "lastSeenAt": "2025-11-05T08:52:24.060Z",
       "latestReplies": 14
     }
   ]
