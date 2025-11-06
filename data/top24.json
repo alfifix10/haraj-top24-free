@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-06T13:43:29.737Z",
+  "updatedAt": "2025-11-06T13:52:41.647Z",
   "count": 300,
   "items": [
     {
@@ -155,17 +155,6 @@
       "firstSeenAt": "2025-11-06T13:12:45.203Z",
       "lastSeenAt": "2025-11-06T13:12:45.203Z",
       "latestReplies": 93
-    },
-    {
-      "id": "1174136171",
-      "desc": "دفان صبيز",
-      "city": "المدينة",
-      "time": "الآن",
-      "replies": 92,
-      "link": "https://haraj.com.sa/1174136171/%D8%AF%D9%81%D8%A7%D9%86_%D8%B5%D8%A8%D9%8A%D8%B2/",
-      "firstSeenAt": "2025-11-05T13:44:13.110Z",
-      "lastSeenAt": "2025-11-05T13:44:13.110Z",
-      "latestReplies": 92
     },
     {
       "id": "11122917646",
@@ -1056,17 +1045,6 @@
       "link": "https://haraj.com.sa/11112062511/%D8%AC%D9%88%D8%A7%D9%84_%D8%B3%D9%88%D9%86%D9%8A_%D8%A7%D9%83%D8%B3%D8%A8%D9%8A%D8%B1%D9%8A%D8%A7/",
       "firstSeenAt": "2025-11-06T13:12:45.203Z",
       "lastSeenAt": "2025-11-06T13:12:45.203Z",
-      "latestReplies": 25
-    },
-    {
-      "id": "11159096257",
-      "desc": "جيب انفنتي QX70",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 25,
-      "link": "https://haraj.com.sa/11159096257/%D8%AC%D9%8A%D8%A8_%D8%A7%D9%86%D9%81%D9%86%D8%AA%D9%8A_QX70/",
-      "firstSeenAt": "2025-11-05T13:44:13.110Z",
-      "lastSeenAt": "2025-11-05T13:44:13.110Z",
       "latestReplies": 25
     },
     {
@@ -2335,17 +2313,6 @@
       "latestReplies": 17
     },
     {
-      "id": "11152554572",
-      "desc": "سامسونج s22 ultra 5G",
-      "city": "جده",
-      "time": "قبل دقيقة واحدة",
-      "replies": 17,
-      "link": "https://haraj.com.sa/11152554572/%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC_s22_ultra_5G/",
-      "firstSeenAt": "2025-11-05T13:44:13.110Z",
-      "lastSeenAt": "2025-11-05T13:44:13.110Z",
-      "latestReplies": 17
-    },
-    {
       "id": "11142548795",
       "desc": "سرير نفرين شامل المرتبة",
       "city": "المدينة",
@@ -3300,6 +3267,39 @@
       "link": "https://haraj.com.sa/11167331086/%D9%85%D8%B9%D9%84%D9%85_%D8%AC%D8%A8%D8%B3_%D8%A8%D9%88%D8%B1%D8%AF_%D8%B1%D9%8A%D8%A7%D8%B6/",
       "firstSeenAt": "2025-11-06T05:36:33.858Z",
       "lastSeenAt": "2025-11-06T05:36:33.858Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11138958946",
+      "desc": "من لديه كتب لايريدها او يرغب في التبرع بها",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11138958946/%D9%85%D9%86_%D9%84%D8%AF%D9%8A%D9%87_%D9%83%D8%AA%D8%A8_%D9%84%D8%A7%D9%8A%D8%B1%D9%8A%D8%AF%D9%87%D8%A7_%D8%A7%D9%88_%D9%8A%D8%B1%D8%BA%D8%A8_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D8%B9_%D8%A8%D9%87%D8%A7/",
+      "firstSeenAt": "2025-11-06T04:09:53.109Z",
+      "lastSeenAt": "2025-11-06T04:09:53.109Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11156946320",
+      "desc": "هوندا اكورد 2014",
+      "city": "مكه",
+      "time": "قبل دقيقتين",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11156946320/%D9%87%D9%88%D9%86%D8%AF%D8%A7_%D8%A7%D9%83%D9%88%D8%B1%D8%AF_2014/",
+      "firstSeenAt": "2025-11-05T15:49:27.265Z",
+      "lastSeenAt": "2025-11-05T15:49:27.265Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11162088581",
+      "desc": "وايت صهريج",
+      "city": "نجران",
+      "time": "قبل دقيقتين",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11162088581/%D9%88%D8%A7%D9%8A%D8%AA_%D8%B5%D9%87%D8%B1%D9%8A%D8%AC/",
+      "firstSeenAt": "2025-11-05T17:23:30.114Z",
+      "lastSeenAt": "2025-11-05T17:23:30.114Z",
       "latestReplies": 15
     }
   ]
