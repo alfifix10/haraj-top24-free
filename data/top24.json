@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-06T11:33:42.804Z",
+  "updatedAt": "2025-11-06T11:48:06.182Z",
   "count": 300,
   "items": [
     {
@@ -1114,17 +1114,6 @@
       "latestReplies": 25
     },
     {
-      "id": "11129077788",
-      "desc": "مظلات سيارات",
-      "city": "المدينة",
-      "time": "قبل دقيقة واحدة",
-      "replies": 25,
-      "link": "https://haraj.com.sa/11129077788/%D9%85%D8%B8%D9%84%D8%A7%D8%AA_%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA/",
-      "firstSeenAt": "2025-11-05T11:33:55.828Z",
-      "lastSeenAt": "2025-11-05T11:33:55.828Z",
-      "latestReplies": 25
-    },
-    {
       "id": "1178040035",
       "desc": "تصنيع فلاتر الكسارات وخلاطات الاسفلت",
       "city": "جده",
@@ -1584,17 +1573,6 @@
       "link": "https://haraj.com.sa/1170455223/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D9%87_%D8%A7%D8%A8%D9%88_%D9%85%D8%B9%D8%A7%D8%B0/",
       "firstSeenAt": "2025-11-06T08:24:05.524Z",
       "lastSeenAt": "2025-11-06T08:24:05.524Z",
-      "latestReplies": 20
-    },
-    {
-      "id": "11129153399",
-      "desc": "اسطبات انوفا 2022",
-      "city": "جده",
-      "time": "قبل دقيقة واحدة",
-      "replies": 20,
-      "link": "https://haraj.com.sa/11129153399/%D8%A7%D8%B3%D8%B7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%86%D9%88%D9%81%D8%A7_2022/",
-      "firstSeenAt": "2025-11-05T11:48:01.223Z",
-      "lastSeenAt": "2025-11-05T11:48:01.223Z",
       "latestReplies": 20
     },
     {
@@ -3301,6 +3279,28 @@
       "firstSeenAt": "2025-11-05T17:23:30.114Z",
       "lastSeenAt": "2025-11-05T17:23:30.114Z",
       "latestReplies": 15
+    },
+    {
+      "id": "11131250077",
+      "desc": "ارلاضي الصويدره",
+      "city": "المدينة",
+      "time": "قبل دقيقة واحدة",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11131250077/%D8%A7%D8%B1%D9%84%D8%A7%D8%B6%D9%8A_%D8%A7%D9%84%D8%B5%D9%88%D9%8A%D8%AF%D8%B1%D9%87/",
+      "firstSeenAt": "2025-11-06T07:47:47.625Z",
+      "lastSeenAt": "2025-11-06T07:47:47.625Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11155822229",
+      "desc": "استراحه وحوش كبير للايجار",
+      "city": "المدينة",
+      "time": "قبل دقيقتين",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11155822229/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D9%87_%D9%88%D8%AD%D9%88%D8%B4_%D9%83%D8%A8%D9%8A%D8%B1_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1/",
+      "firstSeenAt": "2025-11-05T18:24:31.261Z",
+      "lastSeenAt": "2025-11-05T18:24:31.261Z",
+      "latestReplies": 14
     }
   ]
 }
