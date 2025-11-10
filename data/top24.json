@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-10T17:04:16.812Z",
+  "updatedAt": "2025-11-10T17:23:10.617Z",
   "count": 300,
   "items": [
     {
@@ -507,17 +507,6 @@
       "firstSeenAt": "2025-11-10T05:04:54.425Z",
       "lastSeenAt": "2025-11-10T05:04:54.425Z",
       "latestReplies": 36
-    },
-    {
-      "id": "11120339138",
-      "desc": "دهان بويات الرياض",
-      "city": "الرياض",
-      "time": "الآن",
-      "replies": 35,
-      "link": "https://haraj.com.sa/11120339138/%D8%AF%D9%87%D8%A7%D9%86_%D8%A8%D9%88%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/",
-      "firstSeenAt": "2025-11-09T17:21:50.473Z",
-      "lastSeenAt": "2025-11-09T17:21:50.473Z",
-      "latestReplies": 35
     },
     {
       "id": "11157840004",
@@ -2060,17 +2049,6 @@
       "latestReplies": 17
     },
     {
-      "id": "11161344885",
-      "desc": "فورد توروس 2016",
-      "city": "جده",
-      "time": "الآن",
-      "replies": 17,
-      "link": "https://haraj.com.sa/11161344885/%D9%81%D9%88%D8%B1%D8%AF_%D8%AA%D9%88%D8%B1%D9%88%D8%B3_2016/",
-      "firstSeenAt": "2025-11-09T17:21:50.473Z",
-      "lastSeenAt": "2025-11-09T17:21:50.473Z",
-      "latestReplies": 17
-    },
-    {
       "id": "11162319429",
       "desc": "فيلا للبيع حي البشر بموقع مميز",
       "city": "بريدة",
@@ -2189,17 +2167,6 @@
       "link": "https://haraj.com.sa/11153305331/%D9%87%D8%A7%D9%8A%D9%84%D9%83%D8%B3_2013_%D8%AF%D8%A8%D9%84/",
       "firstSeenAt": "2025-11-09T19:33:05.594Z",
       "lastSeenAt": "2025-11-09T19:33:05.594Z",
-      "latestReplies": 17
-    },
-    {
-      "id": "11163989240",
-      "desc": "BMW 730LI 2006 بيع مستعجل",
-      "city": "جيزان",
-      "time": "قبل دقيقة واحدة",
-      "replies": 17,
-      "link": "https://haraj.com.sa/11163989240/BMW_730LI_2006_%D8%A8%D9%8A%D8%B9_%D9%85%D8%B3%D8%AA%D8%B9%D8%AC%D9%84/",
-      "firstSeenAt": "2025-11-09T17:21:50.473Z",
-      "lastSeenAt": "2025-11-09T17:21:50.473Z",
       "latestReplies": 17
     },
     {
@@ -3300,6 +3267,39 @@
       "link": "https://haraj.com.sa/11151992260/%D8%AC%D9%87%D8%A7%D8%B2_%D9%82%D9%8A%D8%A7%D8%B3_%D8%A7%D9%84%D8%B6%D8%BA%D8%B7/",
       "firstSeenAt": "2025-11-10T06:43:39.517Z",
       "lastSeenAt": "2025-11-10T06:43:39.517Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11151471513",
+      "desc": "حساب روبلوكس بيع 1500 ريال",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11151471513/%D8%AD%D8%B3%D8%A7%D8%A8_%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3_%D8%A8%D9%8A%D8%B9_1500_%D8%B1%D9%8A%D8%A7%D9%84/",
+      "firstSeenAt": "2025-11-10T07:47:15.394Z",
+      "lastSeenAt": "2025-11-10T07:47:15.394Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11155529674",
+      "desc": "دباب ريس سزوكي 1000 -2013استخدام ياباني",
+      "city": "المدينة",
+      "time": "قبل دقيقة واحدة",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11155529674/%D8%AF%D8%A8%D8%A7%D8%A8_%D8%B1%D9%8A%D8%B3_%D8%B3%D8%B2%D9%88%D9%83%D9%8A_10002013%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A/",
+      "firstSeenAt": "2025-11-10T04:14:42.576Z",
+      "lastSeenAt": "2025-11-10T04:14:42.576Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11146761151",
+      "desc": "زيت زيتون الجوف 1447",
+      "city": "سكاكا",
+      "time": "قبل دقيقة واحدة",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11146761151/%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_%D8%A7%D9%84%D8%AC%D9%88%D9%81_1447/",
+      "firstSeenAt": "2025-11-10T04:14:42.576Z",
+      "lastSeenAt": "2025-11-10T04:14:42.576Z",
       "latestReplies": 13
     }
   ]
