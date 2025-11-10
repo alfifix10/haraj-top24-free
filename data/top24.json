@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-10T16:24:28.557Z",
+  "updatedAt": "2025-11-10T16:40:36.610Z",
   "count": 300,
   "items": [
     {
@@ -133,17 +133,6 @@
       "firstSeenAt": "2025-11-10T11:22:32.960Z",
       "lastSeenAt": "2025-11-10T11:22:32.960Z",
       "latestReplies": 98
-    },
-    {
-      "id": "11139132282",
-      "desc": "خنجر زراف",
-      "city": "خميس مشيط",
-      "time": "الآن",
-      "replies": 90,
-      "link": "https://haraj.com.sa/11139132282/%D8%AE%D9%86%D8%AC%D8%B1_%D8%B2%D8%B1%D8%A7%D9%81/",
-      "firstSeenAt": "2025-11-09T16:36:44.074Z",
-      "lastSeenAt": "2025-11-09T16:36:44.074Z",
-      "latestReplies": 90
     },
     {
       "id": "11156130024",
@@ -979,17 +968,6 @@
       "link": "https://haraj.com.sa/11145874992/%D8%AA%D9%88%D8%B1%D9%8A%D8%AF_%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D8%A8%D8%A7%D9%86%D9%84_%D8%A8%D8%AD%D8%B1%D9%81%D9%8A%D9%87_%D8%B9%D8%A7%D9%84%D9%8A%D9%87_%D9%88%D8%A8%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1_%D9%85%D9%86%D8%A7%D9%81%D8%B3%D9%87/",
       "firstSeenAt": "2025-11-09T16:48:21.486Z",
       "lastSeenAt": "2025-11-09T16:48:21.486Z",
-      "latestReplies": 24
-    },
-    {
-      "id": "11153612979",
-      "desc": "جنوط شنبر 8 مسامير مقاس 16",
-      "city": "حائل",
-      "time": "قبل ٣ دقائق",
-      "replies": 24,
-      "link": "https://haraj.com.sa/11153612979/%D8%AC%D9%86%D9%88%D8%B7_%D8%B4%D9%86%D8%A8%D8%B1_8_%D9%85%D8%B3%D8%A7%D9%85%D9%8A%D8%B1_%D9%85%D9%82%D8%A7%D8%B3_16/",
-      "firstSeenAt": "2025-11-09T16:36:44.074Z",
-      "lastSeenAt": "2025-11-09T16:36:44.074Z",
       "latestReplies": 24
     },
     {
@@ -2445,17 +2423,6 @@
       "latestReplies": 16
     },
     {
-      "id": "11134348786",
-      "desc": "قصر فاخر للبيع حي المرجان",
-      "city": "جده",
-      "time": "الآن",
-      "replies": 16,
-      "link": "https://haraj.com.sa/11134348786/%D9%82%D8%B5%D8%B1_%D9%81%D8%A7%D8%AE%D8%B1_%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%AD%D9%8A_%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%A7%D9%86/",
-      "firstSeenAt": "2025-11-09T16:36:44.074Z",
-      "lastSeenAt": "2025-11-09T16:36:44.074Z",
-      "latestReplies": 16
-    },
-    {
       "id": "11161550180",
       "desc": "كراسي استرخاء قماشي عدد 2",
       "city": "الرياض",
@@ -3300,6 +3267,39 @@
       "link": "https://haraj.com.sa/11120549623/%D8%AA%D8%B4%D9%84%D9%8A%D8%AD_%D8%A7%D9%85_%D8%AC%D9%8A_%D8%AF%D8%A8%D9%84_%D8%AF%D9%8A%D8%B2%D9%84_2022/",
       "firstSeenAt": "2025-11-10T07:47:15.394Z",
       "lastSeenAt": "2025-11-10T07:47:15.394Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11156921898",
+      "desc": "تلفزيون سمارت 55 bcUHD كل البرامج يوتيوب 4K جديد لم يستخدم",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11156921898/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%85%D8%A7%D8%B1%D8%AA_55_bcUHD_%D9%83%D9%84_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D8%AC_%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8_4K_%D8%AC%D8%AF%D9%8A%D8%AF_%D9%84%D9%85_%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85/",
+      "firstSeenAt": "2025-11-09T18:38:01.149Z",
+      "lastSeenAt": "2025-11-09T18:38:01.149Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11164112387",
+      "desc": "جمس يوكن 2008",
+      "city": "المدينة",
+      "time": "قبل دقيقتين",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11164112387/%D8%AC%D9%85%D8%B3_%D9%8A%D9%88%D9%83%D9%86_2008/",
+      "firstSeenAt": "2025-11-09T22:04:06.771Z",
+      "lastSeenAt": "2025-11-09T22:04:06.771Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11152451784",
+      "desc": "جنبية حك زراف والسلة عمانية",
+      "city": "ظهران الجنوب",
+      "time": "قبل دقيقتين",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11152451784/%D8%AC%D9%86%D8%A8%D9%8A%D8%A9_%D8%AD%D9%83_%D8%B2%D8%B1%D8%A7%D9%81_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A9_%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9/",
+      "firstSeenAt": "2025-11-09T20:34:22.098Z",
+      "lastSeenAt": "2025-11-09T20:34:22.098Z",
       "latestReplies": 13
     }
   ]
