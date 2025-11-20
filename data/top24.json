@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-20T07:34:40.839Z",
+  "updatedAt": "2025-11-20T07:47:59.493Z",
   "count": 300,
   "items": [
     {
@@ -935,6 +935,17 @@
       "link": "https://haraj.com.sa/11168451574/%D8%AC%D9%8A_%D8%A7%D9%83%D8%B3_%D8%A7%D8%B1_1999/",
       "firstSeenAt": "2025-11-19T10:04:43.879Z",
       "lastSeenAt": "2025-11-19T10:04:43.879Z",
+      "latestReplies": 26
+    },
+    {
+      "id": "11159096257",
+      "desc": "جيب انفنتي QX70",
+      "city": "الجبيل",
+      "time": "قبل دقيقة واحدة",
+      "replies": 26,
+      "link": "https://haraj.com.sa/11159096257/%D8%AC%D9%8A%D8%A8_%D8%A7%D9%86%D9%81%D9%86%D8%AA%D9%8A_QX70/",
+      "firstSeenAt": "2025-11-20T07:47:59.493Z",
+      "lastSeenAt": "2025-11-20T07:47:59.493Z",
       "latestReplies": 26
     },
     {
@@ -3289,17 +3300,6 @@
       "link": "https://haraj.com.sa/11165444610/%D9%83%D8%A7%D8%A8%D8%B1%D8%B3_2013_%D9%85%D9%85%D8%B4%D9%89_150/",
       "firstSeenAt": "2025-11-19T23:33:48.723Z",
       "lastSeenAt": "2025-11-19T23:33:48.723Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11168155675",
-      "desc": "كابرس زعتري 2015 شد بلد وممشى قليل",
-      "city": "جده",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11168155675/%D9%83%D8%A7%D8%A8%D8%B1%D8%B3_%D8%B2%D8%B9%D8%AA%D8%B1%D9%8A_2015_%D8%B4%D8%AF_%D8%A8%D9%84%D8%AF_%D9%88%D9%85%D9%85%D8%B4%D9%89_%D9%82%D9%84%D9%8A%D9%84/",
-      "firstSeenAt": "2025-11-19T23:22:50.675Z",
-      "lastSeenAt": "2025-11-19T23:22:50.675Z",
       "latestReplies": 14
     }
   ]
