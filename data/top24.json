@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-21T13:24:38.798Z",
+  "updatedAt": "2025-11-21T13:38:54.057Z",
   "count": 300,
   "items": [
     {
@@ -397,17 +397,6 @@
       "firstSeenAt": "2025-11-20T17:48:01.866Z",
       "lastSeenAt": "2025-11-20T17:48:01.866Z",
       "latestReplies": 51
-    },
-    {
-      "id": "1196831065",
-      "desc": "فحص سيارات في المدينه المنوره قبل الشراء",
-      "city": "المدينة",
-      "time": "الآن",
-      "replies": 50,
-      "link": "https://haraj.com.sa/1196831065/%D9%81%D8%AD%D8%B5_%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D9%87_%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D9%87_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D8%A1/",
-      "firstSeenAt": "2025-11-20T13:25:12.739Z",
-      "lastSeenAt": "2025-11-20T13:25:12.739Z",
-      "latestReplies": 50
     },
     {
       "id": "11135225844",
@@ -1309,17 +1298,6 @@
       "link": "https://haraj.com.sa/11169174148/%D9%83%D8%B1%D9%81%D8%A7%D9%86%D9%87_%D8%BA%D8%B1%D9%81%D9%87_%D8%B3%D8%AD%D8%A8_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
       "firstSeenAt": "2025-11-20T13:49:01.042Z",
       "lastSeenAt": "2025-11-20T13:49:01.042Z",
-      "latestReplies": 25
-    },
-    {
-      "id": "11168125264",
-      "desc": "لكزس 2019 فل كامل",
-      "city": "الدمام",
-      "time": "الآن",
-      "replies": 25,
-      "link": "https://haraj.com.sa/11168125264/%D9%84%D9%83%D8%B2%D8%B3_2019_%D9%81%D9%84_%D9%83%D8%A7%D9%85%D9%84/",
-      "firstSeenAt": "2025-11-20T13:25:12.739Z",
-      "lastSeenAt": "2025-11-20T13:25:12.739Z",
       "latestReplies": 25
     },
     {
@@ -2456,17 +2434,6 @@
       "latestReplies": 18
     },
     {
-      "id": "1179658217",
-      "desc": "تركيب رداد الصرف الصحي",
-      "city": "الرياض",
-      "time": "الآن",
-      "replies": 18,
-      "link": "https://haraj.com.sa/1179658217/%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%B1%D8%AF%D8%A7%D8%AF_%D8%A7%D9%84%D8%B5%D8%B1%D9%81_%D8%A7%D9%84%D8%B5%D8%AD%D9%8A/",
-      "firstSeenAt": "2025-11-20T13:25:12.739Z",
-      "lastSeenAt": "2025-11-20T13:25:12.739Z",
-      "latestReplies": 18
-    },
-    {
       "id": "11142447270",
       "desc": "جمس سوبربان ملكي 94",
       "city": "سيهات",
@@ -3300,6 +3267,39 @@
       "link": "https://haraj.com.sa/11168255637/%D9%83%D8%A7%D8%A8%D8%B1%D8%B3_LS_%D9%85%D9%88%D8%AF%D9%8A%D9%84_2015/",
       "firstSeenAt": "2025-11-21T10:23:05.377Z",
       "lastSeenAt": "2025-11-21T10:23:05.377Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11146420015",
+      "desc": "كامري 2002 للبيع",
+      "city": "المدينة",
+      "time": "قبل ٥ دقائق",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11146420015/%D9%83%D8%A7%D9%85%D8%B1%D9%8A_2002_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
+      "firstSeenAt": "2025-11-21T06:55:31.480Z",
+      "lastSeenAt": "2025-11-21T06:55:31.480Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11169932557",
+      "desc": "كامري 2005",
+      "city": "تربة حائل",
+      "time": "قبل دقيقتين",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11169932557/%D9%83%D8%A7%D9%85%D8%B1%D9%8A_2005/",
+      "firstSeenAt": "2025-11-20T22:48:04.618Z",
+      "lastSeenAt": "2025-11-20T22:48:04.618Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11107779892",
+      "desc": "كتاوت مساحات فورد",
+      "city": "المدينة",
+      "time": "قبل دقيقة واحدة",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11107779892/%D9%83%D8%AA%D8%A7%D9%88%D8%AA_%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA_%D9%81%D9%88%D8%B1%D8%AF/",
+      "firstSeenAt": "2025-11-21T12:45:35.681Z",
+      "lastSeenAt": "2025-11-21T12:45:35.681Z",
       "latestReplies": 15
     }
   ]
