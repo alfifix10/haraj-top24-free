@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-24T21:22:54.951Z",
+  "updatedAt": "2025-11-24T21:34:41.914Z",
   "count": 300,
   "items": [
     {
@@ -1323,17 +1323,6 @@
       "latestReplies": 22
     },
     {
-      "id": "11161471463",
-      "desc": "عمارة حي نخب الطايف",
-      "city": "الطايف",
-      "time": "الآن",
-      "replies": 22,
-      "link": "https://haraj.com.sa/11161471463/%D8%B9%D9%85%D8%A7%D8%B1%D8%A9_%D8%AD%D9%8A_%D9%86%D8%AE%D8%A8_%D8%A7%D9%84%D8%B7%D8%A7%D9%8A%D9%81/",
-      "firstSeenAt": "2025-11-23T21:33:15.929Z",
-      "lastSeenAt": "2025-11-23T21:33:15.929Z",
-      "latestReplies": 22
-    },
-    {
       "id": "11134586291",
       "desc": "كنب غرفة معيشة جديد",
       "city": "مكه",
@@ -2038,6 +2027,17 @@
       "latestReplies": 18
     },
     {
+      "id": "11138330350",
+      "desc": "سكوتر 2024",
+      "city": "عنيزة",
+      "time": "قبل ٣ دقائق",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11138330350/%D8%B3%D9%83%D9%88%D8%AA%D8%B1_2024/",
+      "firstSeenAt": "2025-11-24T21:34:41.914Z",
+      "lastSeenAt": "2025-11-24T21:34:41.914Z",
+      "latestReplies": 18
+    },
+    {
       "id": "11169407770",
       "desc": "سكويا 2016 ماشي146",
       "city": "جده",
@@ -2090,6 +2090,17 @@
       "link": "https://haraj.com.sa/11122426162/%D9%85%D8%BA%D8%A7%D8%B3%D9%84_%D8%B1%D8%AE%D8%A7%D9%85_%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A_%D9%88%D8%B5%D9%86%D8%A7%D8%B9%D9%8A/",
       "firstSeenAt": "2025-11-24T04:42:38.974Z",
       "lastSeenAt": "2025-11-24T04:42:38.974Z",
+      "latestReplies": 18
+    },
+    {
+      "id": "11155403259",
+      "desc": "مكيف سبلت سامسونج",
+      "city": "بريدة",
+      "time": "قبل دقيقة واحدة",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11155403259/%D9%85%D9%83%D9%8A%D9%81_%D8%B3%D8%A8%D9%84%D8%AA_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC/",
+      "firstSeenAt": "2025-11-24T21:34:41.914Z",
+      "lastSeenAt": "2025-11-24T21:34:41.914Z",
       "latestReplies": 18
     },
     {
@@ -3061,6 +3072,17 @@
       "latestReplies": 15
     },
     {
+      "id": "11143446817",
+      "desc": "مساج VEP",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11143446817/%D9%85%D8%B3%D8%A7%D8%AC_VEP/",
+      "firstSeenAt": "2025-11-24T21:34:41.914Z",
+      "lastSeenAt": "2025-11-24T21:34:41.914Z",
+      "latestReplies": 15
+    },
+    {
       "id": "11145114070",
       "desc": "مضاد حيوي شامل للطيور بأنواعها",
       "city": "الباحة",
@@ -3069,6 +3091,17 @@
       "link": "https://haraj.com.sa/11145114070/%D9%85%D8%B6%D8%A7%D8%AF_%D8%AD%D9%8A%D9%88%D9%8A_%D8%B4%D8%A7%D9%85%D9%84_%D9%84%D9%84%D8%B7%D9%8A%D9%88%D8%B1_%D8%A8%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7/",
       "firstSeenAt": "2025-11-24T06:43:29.774Z",
       "lastSeenAt": "2025-11-24T06:43:29.774Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11170237276",
+      "desc": "مكيفات شبكاك",
+      "city": "الرياض",
+      "time": "قبل دقيقة واحدة",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11170237276/%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA_%D8%B4%D8%A8%D9%83%D8%A7%D9%83/",
+      "firstSeenAt": "2025-11-24T21:34:41.914Z",
+      "lastSeenAt": "2025-11-24T21:34:41.914Z",
       "latestReplies": 15
     },
     {
@@ -3267,39 +3300,6 @@
       "link": "https://haraj.com.sa/11168421359/%D8%AF%D8%A8%D8%A7%D8%A8_%D8%B3%D9%88%D8%B2%D9%88%D9%83%D9%8A_AX100/",
       "firstSeenAt": "2025-11-24T15:49:50.196Z",
       "lastSeenAt": "2025-11-24T15:49:50.196Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11133983045",
-      "desc": "دفرنسات (جموس-هايلوكس-ايسوزو-إكسبديشن- ) جميع المويلات",
-      "city": "جده",
-      "time": "قبل ٣ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11133983045/%D8%AF%D9%81%D8%B1%D9%86%D8%B3%D8%A7%D8%AA%D8%AC%D9%85%D9%88%D8%B3_%D9%87%D8%A7%D9%8A%D9%84%D9%88%D9%83%D8%B3_%D8%A7%D9%8A%D8%B3%D9%88%D8%B2%D9%88_%D8%A5%D9%83%D8%B3%D8%A8%D8%AF%D9%8A%D8%B4%D9%86%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D9%84%D9%85%D9%88%D9%8A%D9%84%D8%A7%D8%AA/",
-      "firstSeenAt": "2025-11-24T05:49:34.689Z",
-      "lastSeenAt": "2025-11-24T05:49:34.689Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11162026247",
-      "desc": "دوكر للايجار",
-      "city": "الرياض",
-      "time": "قبل ٣ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11162026247/%D8%AF%D9%88%D9%83%D8%B1_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1/",
-      "firstSeenAt": "2025-11-24T11:04:11.063Z",
-      "lastSeenAt": "2025-11-24T11:04:11.063Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11145530652",
-      "desc": "رفوف حديد",
-      "city": "الجبيل",
-      "time": "قبل ٤ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11145530652/%D8%B1%D9%81%D9%88%D9%81_%D8%AD%D8%AF%D9%8A%D8%AF/",
-      "firstSeenAt": "2025-11-24T21:04:15.306Z",
-      "lastSeenAt": "2025-11-24T21:04:15.306Z",
       "latestReplies": 14
     }
   ]
