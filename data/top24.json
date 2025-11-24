@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-24T13:54:41.835Z",
+  "updatedAt": "2025-11-24T14:04:40.367Z",
   "count": 300,
   "items": [
     {
@@ -133,17 +133,6 @@
       "firstSeenAt": "2025-11-24T06:06:08.229Z",
       "lastSeenAt": "2025-11-24T06:06:08.229Z",
       "latestReplies": 70
-    },
-    {
-      "id": "11167495235",
-      "desc": "أفالون لؤلؤي فل ليمتد 2011",
-      "city": "المجمعة",
-      "time": "الآن",
-      "replies": 69,
-      "link": "https://haraj.com.sa/11167495235/%D8%A3%D9%81%D8%A7%D9%84%D9%88%D9%86_%D9%84%D8%A4%D9%84%D8%A4%D9%8A_%D9%81%D9%84_%D9%84%D9%8A%D9%85%D8%AA%D8%AF_2011/",
-      "firstSeenAt": "2025-11-23T14:03:23.786Z",
-      "lastSeenAt": "2025-11-23T14:03:23.786Z",
-      "latestReplies": 69
     },
     {
       "id": "1164952517",
@@ -1639,17 +1628,6 @@
       "link": "https://haraj.com.sa/11136273760/%D9%83%D8%A7%D8%A8%D8%B1%D8%B3_LS_2010_%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%B4%D8%B1%D8%B7/",
       "firstSeenAt": "2025-11-23T20:04:18.457Z",
       "lastSeenAt": "2025-11-23T20:04:18.457Z",
-      "latestReplies": 20
-    },
-    {
-      "id": "11166856118",
-      "desc": "لكزس مخزن LS460L موديل 2008",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 20,
-      "link": "https://haraj.com.sa/11166856118/%D9%84%D9%83%D8%B2%D8%B3_%D9%85%D8%AE%D8%B2%D9%86_LS460L_%D9%85%D9%88%D8%AF%D9%8A%D9%84_2008/",
-      "firstSeenAt": "2025-11-23T14:03:23.786Z",
-      "lastSeenAt": "2025-11-23T14:03:23.786Z",
       "latestReplies": 20
     },
     {
@@ -3300,6 +3278,28 @@
       "link": "https://haraj.com.sa/11143101933/%D8%AC%D9%84%D8%A7%D8%B3%D8%A9_%D8%A7%D8%B7%D9%81%D8%A7%D9%84/",
       "firstSeenAt": "2025-11-24T09:23:41.993Z",
       "lastSeenAt": "2025-11-24T09:23:41.993Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11145867816",
+      "desc": "جهاز راوتر زين",
+      "city": "نجران",
+      "time": "قبل ٥ دقائق",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11145867816/%D8%AC%D9%87%D8%A7%D8%B2_%D8%B1%D8%A7%D9%88%D8%AA%D8%B1_%D8%B2%D9%8A%D9%86/",
+      "firstSeenAt": "2025-11-23T22:22:39.221Z",
+      "lastSeenAt": "2025-11-23T22:22:39.221Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11148232041",
+      "desc": "حداد جميع اعمال الحداده",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11148232041/%D8%AD%D8%AF%D8%A7%D8%AF_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D8%B9%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF%D9%87/",
+      "firstSeenAt": "2025-11-24T08:41:40.597Z",
+      "lastSeenAt": "2025-11-24T08:41:40.597Z",
       "latestReplies": 14
     }
   ]
