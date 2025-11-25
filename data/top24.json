@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-25T07:04:59.929Z",
+  "updatedAt": "2025-11-25T07:22:49.974Z",
   "count": 300,
   "items": [
     {
@@ -1452,6 +1452,17 @@
       "link": "https://haraj.com.sa/11134704144/%D8%AC%D8%B1%D8%A8%D9%83%D8%B3%D8%A7%D8%AA_%D8%A7%D8%AA%D9%88%D9%85%D8%AA%D9%8A%D9%83_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A_%D9%88%D9%83%D9%88%D8%B1%D9%8A_%D9%88%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A/",
       "firstSeenAt": "2025-11-24T21:22:54.951Z",
       "lastSeenAt": "2025-11-24T21:22:54.951Z",
+      "latestReplies": 22
+    },
+    {
+      "id": "11129901392",
+      "desc": "حقيبة الكلام الذكي",
+      "city": "الرياض",
+      "time": "الآن",
+      "replies": 22,
+      "link": "https://haraj.com.sa/11129901392/%D8%AD%D9%82%D9%8A%D8%A8%D8%A9_%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%B0%D9%83%D9%8A/",
+      "firstSeenAt": "2025-11-25T07:22:49.974Z",
+      "lastSeenAt": "2025-11-25T07:22:49.974Z",
       "latestReplies": 22
     },
     {
@@ -3289,17 +3300,6 @@
       "link": "https://haraj.com.sa/11162232907/%D8%AD%D8%AC%D8%A7%D9%85%D9%87_%D9%85%D9%86%D8%B2%D9%84%D9%8A%D9%87_%D9%81%D9%8A_%D8%AC%D8%AF%D8%A9/",
       "firstSeenAt": "2025-11-24T17:03:58.228Z",
       "lastSeenAt": "2025-11-24T17:03:58.228Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11148232041",
-      "desc": "حداد جميع اعمال الحداده",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11148232041/%D8%AD%D8%AF%D8%A7%D8%AF_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D8%B9%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF%D9%87/",
-      "firstSeenAt": "2025-11-24T08:41:40.597Z",
-      "lastSeenAt": "2025-11-24T08:41:40.597Z",
       "latestReplies": 14
     }
   ]
