@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-25T05:23:41.084Z",
+  "updatedAt": "2025-11-25T05:37:00.748Z",
   "count": 300,
   "items": [
     {
@@ -806,6 +806,28 @@
       "latestReplies": 33
     },
     {
+      "id": "1171275252",
+      "desc": "شيف حلويات",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 33,
+      "link": "https://haraj.com.sa/1171275252/%D8%B4%D9%8A%D9%81_%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA/",
+      "firstSeenAt": "2025-11-25T05:37:00.748Z",
+      "lastSeenAt": "2025-11-25T05:37:00.748Z",
+      "latestReplies": 33
+    },
+    {
+      "id": "11120570673",
+      "desc": "كشافات طاقه شمسيه",
+      "city": "تبوك",
+      "time": "قبل ٤ دقائق",
+      "replies": 33,
+      "link": "https://haraj.com.sa/11120570673/%D9%83%D8%B4%D8%A7%D9%81%D8%A7%D8%AA_%D8%B7%D8%A7%D9%82%D9%87_%D8%B4%D9%85%D8%B3%D9%8A%D9%87/",
+      "firstSeenAt": "2025-11-25T05:37:00.748Z",
+      "lastSeenAt": "2025-11-25T05:37:00.748Z",
+      "latestReplies": 33
+    },
+    {
       "id": "11152229739",
       "desc": "لوحه مميزه 511",
       "city": "الطايف",
@@ -814,6 +836,17 @@
       "link": "https://haraj.com.sa/11152229739/%D9%84%D9%88%D8%AD%D9%87_%D9%85%D9%85%D9%8A%D8%B2%D9%87_511/",
       "firstSeenAt": "2025-11-24T07:22:51.936Z",
       "lastSeenAt": "2025-11-24T07:22:51.936Z",
+      "latestReplies": 33
+    },
+    {
+      "id": "11102732930",
+      "desc": "معدات للإيجار",
+      "city": "تبوك",
+      "time": "قبل ٣ دقائق",
+      "replies": 33,
+      "link": "https://haraj.com.sa/11102732930/%D9%85%D8%B9%D8%AF%D8%A7%D8%AA_%D9%84%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1/",
+      "firstSeenAt": "2025-11-25T05:37:00.748Z",
+      "lastSeenAt": "2025-11-25T05:37:00.748Z",
       "latestReplies": 33
     },
     {
@@ -1211,6 +1244,17 @@
       "firstSeenAt": "2025-11-24T23:47:47.017Z",
       "lastSeenAt": "2025-11-24T23:47:47.017Z",
       "latestReplies": 26
+    },
+    {
+      "id": "11131463121",
+      "desc": "ريموتات كراج البراك كيم came",
+      "city": "جده",
+      "time": "قبل دقيقة واحدة",
+      "replies": 25,
+      "link": "https://haraj.com.sa/11131463121/%D8%B1%D9%8A%D9%85%D9%88%D8%AA%D8%A7%D8%AA_%D9%83%D8%B1%D8%A7%D8%AC_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%83_%D9%83%D9%8A%D9%85_came/",
+      "firstSeenAt": "2025-11-25T05:37:00.748Z",
+      "lastSeenAt": "2025-11-25T05:37:00.748Z",
+      "latestReplies": 25
     },
     {
       "id": "11135401239",
@@ -1661,6 +1705,17 @@
       "link": "https://haraj.com.sa/1176222104/%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B5%D8%A7%D8%B9%D8%AF_%D8%A8%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%85%D8%AA%D9%85%D9%8A%D8%B2%D8%A9_Italy_n/",
       "firstSeenAt": "2025-11-25T02:33:50.271Z",
       "lastSeenAt": "2025-11-25T02:33:50.271Z",
+      "latestReplies": 21
+    },
+    {
+      "id": "11139736324",
+      "desc": "عجين علف حلال للبيع",
+      "city": "الرياض",
+      "time": "قبل ٣ دقائق",
+      "replies": 21,
+      "link": "https://haraj.com.sa/11139736324/%D8%B9%D8%AC%D9%8A%D9%86_%D8%B9%D9%84%D9%81_%D8%AD%D9%84%D8%A7%D9%84_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
+      "firstSeenAt": "2025-11-25T05:37:00.748Z",
+      "lastSeenAt": "2025-11-25T05:37:00.748Z",
       "latestReplies": 21
     },
     {
@@ -3245,61 +3300,6 @@
       "link": "https://haraj.com.sa/11143101933/%D8%AC%D9%84%D8%A7%D8%B3%D8%A9_%D8%A7%D8%B7%D9%81%D8%A7%D9%84/",
       "firstSeenAt": "2025-11-24T09:23:41.993Z",
       "lastSeenAt": "2025-11-24T09:23:41.993Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11161240933",
-      "desc": "جنبيه زراف",
-      "city": "نجران",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11161240933/%D8%AC%D9%86%D8%A8%D9%8A%D9%87_%D8%B2%D8%B1%D8%A7%D9%81/",
-      "firstSeenAt": "2025-11-24T17:22:47.658Z",
-      "lastSeenAt": "2025-11-24T17:22:47.658Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11157353999",
-      "desc": "جهاز كمبيوتر لبتوب",
-      "city": "الطايف",
-      "time": "قبل ٤ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11157353999/%D8%AC%D9%87%D8%A7%D8%B2_%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D9%84%D8%A8%D8%AA%D9%88%D8%A8/",
-      "firstSeenAt": "2025-11-24T23:34:17.772Z",
-      "lastSeenAt": "2025-11-24T23:34:17.772Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11162232907",
-      "desc": "حجامه منزليه في جدة",
-      "city": "جده",
-      "time": "قبل دقيقة واحدة",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11162232907/%D8%AD%D8%AC%D8%A7%D9%85%D9%87_%D9%85%D9%86%D8%B2%D9%84%D9%8A%D9%87_%D9%81%D9%8A_%D8%AC%D8%AF%D8%A9/",
-      "firstSeenAt": "2025-11-24T17:03:58.228Z",
-      "lastSeenAt": "2025-11-24T17:03:58.228Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11148232041",
-      "desc": "حداد جميع اعمال الحداده",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11148232041/%D8%AD%D8%AF%D8%A7%D8%AF_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D8%B9%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF%D9%87/",
-      "firstSeenAt": "2025-11-24T08:41:40.597Z",
-      "lastSeenAt": "2025-11-24T08:41:40.597Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11162491894",
-      "desc": "خيمة الهبه جديده جدا والبيع سمح باذن الله",
-      "city": "الرياض",
-      "time": "قبل ٣ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11162491894/%D8%AE%D9%8A%D9%85%D8%A9_%D8%A7%D9%84%D9%87%D8%A8%D9%87_%D8%AC%D8%AF%D9%8A%D8%AF%D9%87_%D8%AC%D8%AF%D8%A7_%D9%88%D8%A7%D9%84%D8%A8%D9%8A%D8%B9_%D8%B3%D9%85%D8%AD_%D8%A8%D8%A7%D8%B0%D9%86_%D8%A7%D9%84%D9%84%D9%87/",
-      "firstSeenAt": "2025-11-24T06:54:45.650Z",
-      "lastSeenAt": "2025-11-24T06:54:45.650Z",
       "latestReplies": 14
     }
   ]
