@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-26T10:23:32.157Z",
+  "updatedAt": "2025-11-26T10:39:07.038Z",
   "count": 300,
   "items": [
     {
@@ -133,17 +133,6 @@
       "firstSeenAt": "2025-11-25T14:23:05.971Z",
       "lastSeenAt": "2025-11-25T14:23:05.971Z",
       "latestReplies": 90
-    },
-    {
-      "id": "11131876014",
-      "desc": "قطع غيار مستوردة",
-      "city": "القطيف",
-      "time": "قبل ٣ دقائق",
-      "replies": 86,
-      "link": "https://haraj.com.sa/11131876014/%D9%82%D8%B7%D8%B9_%D8%BA%D9%8A%D8%A7%D8%B1_%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF%D8%A9/",
-      "firstSeenAt": "2025-11-25T10:23:54.251Z",
-      "lastSeenAt": "2025-11-25T10:23:54.251Z",
-      "latestReplies": 86
     },
     {
       "id": "11111311341",
@@ -1103,6 +1092,17 @@
       "latestReplies": 25
     },
     {
+      "id": "1164520282",
+      "desc": "الرحلات البريه",
+      "city": "حائل",
+      "time": "قبل دقيقتين",
+      "replies": 25,
+      "link": "https://haraj.com.sa/1164520282/%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%87/",
+      "firstSeenAt": "2025-11-26T10:39:07.038Z",
+      "lastSeenAt": "2025-11-26T10:39:07.038Z",
+      "latestReplies": 25
+    },
+    {
       "id": "11143850134",
       "desc": "دولاب ملابس وسرير نفر",
       "city": "الرياض",
@@ -1254,6 +1254,17 @@
       "link": "https://haraj.com.sa/11159789249/%D8%B1%D9%8A%D9%85%D9%88%D8%AA_%D8%AC%D9%8A%D8%A8_%D8%AC%D9%8A_%D8%A7%D9%83%D8%B3/",
       "firstSeenAt": "2025-11-25T18:24:32.225Z",
       "lastSeenAt": "2025-11-25T18:24:32.225Z",
+      "latestReplies": 24
+    },
+    {
+      "id": "11117632307",
+      "desc": "طاولة ارضية ( تفصيل جديد)",
+      "city": "الهفوف",
+      "time": "قبل ٣ دقائق",
+      "replies": 24,
+      "link": "https://haraj.com.sa/11117632307/%D8%B7%D8%A7%D9%88%D9%84%D8%A9_%D8%A7%D8%B1%D8%B6%D9%8A%D8%A9_%D8%AA%D9%81%D8%B5%D9%8A%D9%84_%D8%AC%D8%AF%D9%8A%D8%AF_/",
+      "firstSeenAt": "2025-11-26T10:39:07.038Z",
+      "lastSeenAt": "2025-11-26T10:39:07.038Z",
       "latestReplies": 24
     },
     {
@@ -2082,6 +2093,17 @@
       "latestReplies": 18
     },
     {
+      "id": "11169455267",
+      "desc": "دجاج بلدي وصندقه",
+      "city": "الطايف",
+      "time": "الآن",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11169455267/%D8%AF%D8%AC%D8%A7%D8%AC_%D8%A8%D9%84%D8%AF%D9%8A_%D9%88%D8%B5%D9%86%D8%AF%D9%82%D9%87/",
+      "firstSeenAt": "2025-11-26T10:39:07.038Z",
+      "lastSeenAt": "2025-11-26T10:39:07.038Z",
+      "latestReplies": 18
+    },
+    {
       "id": "11140621249",
       "desc": "ريموت افالون كامري من 2013 الى 2018",
       "city": "جده",
@@ -2511,6 +2533,17 @@
       "latestReplies": 16
     },
     {
+      "id": "11124891883",
+      "desc": "دعاية وإعلان",
+      "city": "خميس مشيط",
+      "time": "الآن",
+      "replies": 16,
+      "link": "https://haraj.com.sa/11124891883/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A9_%D9%88%D8%A5%D8%B9%D9%84%D8%A7%D9%86/",
+      "firstSeenAt": "2025-11-26T10:39:07.038Z",
+      "lastSeenAt": "2025-11-26T10:39:07.038Z",
+      "latestReplies": 16
+    },
+    {
       "id": "11159082459",
       "desc": "ذريع نافعي فضه قديمه الطول 44سم",
       "city": "أبها",
@@ -2761,17 +2794,6 @@
       "link": "https://haraj.com.sa/11165695840/%D8%AA%D9%88%D8%B1%D8%B3_2020_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%B1_%D9%85%D9%85%D8%B4%D9%89_154_%D9%85%D9%83%D9%8A%D9%86%D9%87_%D9%82%D9%8A%D8%B1_%D8%B4%D8%B1%D8%B7_%D8%A8%D8%AF%D9%8A_%D9%88%D9%83%D8%A7%D9%84%D9%87_%D9%88%D9%84%D9%83_%D9%81%D8%AD%D8%B5/",
       "firstSeenAt": "2025-11-25T23:34:04.915Z",
       "lastSeenAt": "2025-11-25T23:34:04.915Z",
-      "latestReplies": 15
-    },
-    {
-      "id": "11166731170",
-      "desc": "جكسار موديل2000 ديزل",
-      "city": "بريدة",
-      "time": "قبل ٣ دقائق",
-      "replies": 15,
-      "link": "https://haraj.com.sa/11166731170/%D8%AC%D9%83%D8%B3%D8%A7%D8%B1_%D9%85%D9%88%D8%AF%D9%8A%D9%842000_%D8%AF%D9%8A%D8%B2%D9%84/",
-      "firstSeenAt": "2025-11-25T10:23:54.251Z",
-      "lastSeenAt": "2025-11-25T10:23:54.251Z",
       "latestReplies": 15
     },
     {
@@ -3171,6 +3193,17 @@
       "latestReplies": 14
     },
     {
+      "id": "11152684400",
+      "desc": "جمس يوكن 2013",
+      "city": "جده",
+      "time": "قبل ٣ دقائق",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11152684400/%D8%AC%D9%85%D8%B3_%D9%8A%D9%88%D9%83%D9%86_2013/",
+      "firstSeenAt": "2025-11-26T10:39:07.038Z",
+      "lastSeenAt": "2025-11-26T10:39:07.038Z",
+      "latestReplies": 14
+    },
+    {
       "id": "11168748463",
       "desc": "جيلي مونجارو GF 2023 للبيع نظيفه جدا",
       "city": "الرياض",
@@ -3267,39 +3300,6 @@
       "link": "https://haraj.com.sa/11168994994/%D8%B7%D8%A7%D9%88%D9%84%D8%A9_%D8%B7%D8%B9%D8%A7%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9_%D9%81%D8%A7%D8%AE%D8%B1%D8%A9/",
       "firstSeenAt": "2025-11-25T23:34:04.915Z",
       "lastSeenAt": "2025-11-25T23:34:04.915Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11157412826",
-      "desc": "عربه الاطفال",
-      "city": "الرياض",
-      "time": "قبل ٣ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11157412826/%D8%B9%D8%B1%D8%A8%D9%87_%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/",
-      "firstSeenAt": "2025-11-26T08:40:23.579Z",
-      "lastSeenAt": "2025-11-26T08:40:23.579Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11165393460",
-      "desc": "عمارة للبيع",
-      "city": "الطايف",
-      "time": "قبل ٥ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11165393460/%D8%B9%D9%85%D8%A7%D8%B1%D8%A9_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
-      "firstSeenAt": "2025-11-26T04:10:09.770Z",
-      "lastSeenAt": "2025-11-26T04:10:09.770Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11159481848",
-      "desc": "غسالة هيتاشي حوضين 7 كيلو (متاح إلى الآن)",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11159481848/%D8%BA%D8%B3%D8%A7%D9%84%D8%A9_%D9%87%D9%8A%D8%AA%D8%A7%D8%B4%D9%8A_%D8%AD%D9%88%D8%B6%D9%8A%D9%86_7_%D9%83%D9%8A%D9%84%D9%88%D9%85%D8%AA%D8%A7%D8%AD_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D8%A2%D9%86_/",
-      "firstSeenAt": "2025-11-25T20:23:27.097Z",
-      "lastSeenAt": "2025-11-25T20:23:27.097Z",
       "latestReplies": 14
     }
   ]
