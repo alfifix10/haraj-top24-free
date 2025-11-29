@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-29T08:50:15.749Z",
+  "updatedAt": "2025-11-29T09:03:57.336Z",
   "count": 300,
   "items": [
     {
@@ -78,17 +78,6 @@
       "firstSeenAt": "2025-11-28T10:49:25.868Z",
       "lastSeenAt": "2025-11-28T10:49:25.868Z",
       "latestReplies": 125
-    },
-    {
-      "id": "1115986191",
-      "desc": "توصيل جميع اغراضك لجميع المدن",
-      "city": "الطايف",
-      "time": "قبل دقيقتين",
-      "replies": 116,
-      "link": "https://haraj.com.sa/1115986191/%D8%AA%D9%88%D8%B5%D9%8A%D9%84_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D8%BA%D8%B1%D8%A7%D8%B6%D9%83_%D9%84%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D9%84%D9%85%D8%AF%D9%86/",
-      "firstSeenAt": "2025-11-28T08:52:29.764Z",
-      "lastSeenAt": "2025-11-28T08:52:29.764Z",
-      "latestReplies": 116
     },
     {
       "id": "11141567727",
@@ -3300,6 +3289,17 @@
       "link": "https://haraj.com.sa/11126339598/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%AC%D9%85%D8%B3_%D8%BA%D9%85%D8%A7%D8%B1%D8%AA%D9%8A%D9%86_HD/",
       "firstSeenAt": "2025-11-28T21:04:26.601Z",
       "lastSeenAt": "2025-11-28T21:04:26.601Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11157623501",
+      "desc": "للبيع غرفة جلوس بطرمة عربي",
+      "city": "جده",
+      "time": "قبل دقيقتين",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11157623501/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%BA%D8%B1%D9%81%D8%A9_%D8%AC%D9%84%D9%88%D8%B3_%D8%A8%D8%B7%D8%B1%D9%85%D8%A9_%D8%B9%D8%B1%D8%A8%D9%8A/",
+      "firstSeenAt": "2025-11-29T00:39:05.957Z",
+      "lastSeenAt": "2025-11-29T00:39:05.957Z",
       "latestReplies": 15
     }
   ]
