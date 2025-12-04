@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-04T17:23:19.408Z",
+  "updatedAt": "2025-12-04T17:38:08.672Z",
   "count": 300,
   "items": [
     {
@@ -298,17 +298,6 @@
       "firstSeenAt": "2025-12-04T11:34:52.271Z",
       "lastSeenAt": "2025-12-04T11:34:52.271Z",
       "latestReplies": 49
-    },
-    {
-      "id": "1139124253",
-      "desc": "ساعة جينوفسكي سويسرية ( تم البيع ).",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 48,
-      "link": "https://haraj.com.sa/1139124253/%D8%B3%D8%A7%D8%B9%D8%A9_%D8%AC%D9%8A%D9%86%D9%88%D9%81%D8%B3%D9%83%D9%8A_%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A%D8%A9_%D8%AA%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9_/",
-      "firstSeenAt": "2025-12-03T17:23:26.397Z",
-      "lastSeenAt": "2025-12-03T17:23:26.397Z",
-      "latestReplies": 48
     },
     {
       "id": "1185106704",
@@ -726,6 +715,17 @@
       "link": "https://haraj.com.sa/11164650742/%D9%83%D8%B1%D8%A7%D8%B3%D9%8A%D8%AF%D8%A7_%D8%AA%D8%B4%D9%84%D9%8A%D8%AD_%D9%82%D8%B7%D8%B9_%D8%BA%D9%8A%D8%A7%D8%B1/",
       "firstSeenAt": "2025-12-04T17:06:01.090Z",
       "lastSeenAt": "2025-12-04T17:06:01.090Z",
+      "latestReplies": 32
+    },
+    {
+      "id": "11154117130",
+      "desc": "لاندكروزر98",
+      "city": "أبها",
+      "time": "قبل دقيقتين",
+      "replies": 32,
+      "link": "https://haraj.com.sa/11154117130/%D9%84%D8%A7%D9%86%D8%AF%D9%83%D8%B1%D9%88%D8%B2%D8%B198/",
+      "firstSeenAt": "2025-12-04T17:38:08.672Z",
+      "lastSeenAt": "2025-12-04T17:38:08.672Z",
       "latestReplies": 32
     },
     {
@@ -2071,17 +2071,6 @@
       "latestReplies": 17
     },
     {
-      "id": "11121257393",
-      "desc": "اجهزة رياضية",
-      "city": "الرياض",
-      "time": "الآن",
-      "replies": 17,
-      "link": "https://haraj.com.sa/11121257393/%D8%A7%D8%AC%D9%87%D8%B2%D8%A9_%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
-      "firstSeenAt": "2025-12-03T17:23:26.397Z",
-      "lastSeenAt": "2025-12-03T17:23:26.397Z",
-      "latestReplies": 17
-    },
-    {
       "id": "11150294303",
       "desc": "استراحة عظم للايجار عشيرة شمال الطائف",
       "city": "الطايف",
@@ -3300,6 +3289,17 @@
       "link": "https://haraj.com.sa/11144272823/%D9%84%D9%84%D8%A5%D8%AC%D8%A7%D8%B1_%D8%B3%D9%88%D8%A8%D8%B1_%D9%85%D8%A7%D8%B1%D9%83%D8%AA_%D9%88%D9%85%D8%B7%D8%B9%D9%85_%D8%A7%D9%88_%D8%A8%D9%88%D9%81%D9%8A%D9%87%D8%A7%D9%85%D8%A7%D9%85_%D9%85%D8%AC%D9%85%D8%B9_%D9%85%D8%AF%D8%A7%D8%B1%D8%B3_%D8%A8%D9%82%D8%B1%D9%8A%D8%A9%D8%A7%D9%84%D8%AD%D9%85%D9%89/",
       "firstSeenAt": "2025-12-03T20:38:15.697Z",
       "lastSeenAt": "2025-12-03T20:38:15.697Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11157235721",
+      "desc": "للبيع كاميرا سوني A7 عاجلا",
+      "city": "الرياض",
+      "time": "قبل دقيقة واحدة",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11157235721/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7_%D8%B3%D9%88%D9%86%D9%8A_A7_%D8%B9%D8%A7%D8%AC%D9%84%D8%A7/",
+      "firstSeenAt": "2025-12-04T09:38:37.885Z",
+      "lastSeenAt": "2025-12-04T09:38:37.885Z",
       "latestReplies": 14
     }
   ]
