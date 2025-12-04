@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-04T15:23:36.634Z",
+  "updatedAt": "2025-12-04T15:38:17.570Z",
   "count": 300,
   "items": [
     {
@@ -1287,6 +1287,17 @@
       "link": "https://haraj.com.sa/11157698385/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A/",
       "firstSeenAt": "2025-12-04T05:04:25.476Z",
       "lastSeenAt": "2025-12-04T05:04:25.476Z",
+      "latestReplies": 22
+    },
+    {
+      "id": "11170480307",
+      "desc": "ضان",
+      "city": "ابو عريش",
+      "time": "قبل ٣ دقائق",
+      "replies": 22,
+      "link": "https://haraj.com.sa/11170480307/%D8%B6%D8%A7%D9%86/",
+      "firstSeenAt": "2025-12-04T15:38:17.570Z",
+      "lastSeenAt": "2025-12-04T15:38:17.570Z",
       "latestReplies": 22
     },
     {
@@ -3083,6 +3094,17 @@
       "latestReplies": 14
     },
     {
+      "id": "11122497254",
+      "desc": "قير مازدا 6 _ قير مازدا cx9",
+      "city": "الرياض",
+      "time": "الآن",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11122497254/%D9%82%D9%8A%D8%B1_%D9%85%D8%A7%D8%B2%D8%AF%D8%A7_6_%D9%82%D9%8A%D8%B1_%D9%85%D8%A7%D8%B2%D8%AF%D8%A7_cx9/",
+      "firstSeenAt": "2025-12-04T15:38:17.570Z",
+      "lastSeenAt": "2025-12-04T15:38:17.570Z",
+      "latestReplies": 14
+    },
+    {
       "id": "11167776364",
       "desc": "كامري 2006مكينه تنقص تشليح",
       "city": "الطايف",
@@ -3102,6 +3124,17 @@
       "link": "https://haraj.com.sa/11156945559/%D9%83%D9%86%D8%A8/",
       "firstSeenAt": "2025-12-04T11:04:19.932Z",
       "lastSeenAt": "2025-12-04T11:04:19.932Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11141252688",
+      "desc": "كوايه بخار جديده",
+      "city": "الطايف",
+      "time": "قبل دقيقتين",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11141252688/%D9%83%D9%88%D8%A7%D9%8A%D9%87_%D8%A8%D8%AE%D8%A7%D8%B1_%D8%AC%D8%AF%D9%8A%D8%AF%D9%87/",
+      "firstSeenAt": "2025-12-04T15:38:17.570Z",
+      "lastSeenAt": "2025-12-04T15:38:17.570Z",
       "latestReplies": 14
     },
     {
@@ -3268,39 +3301,6 @@
       "firstSeenAt": "2025-12-03T15:50:48.964Z",
       "lastSeenAt": "2025-12-03T15:50:48.964Z",
       "latestReplies": 14
-    },
-    {
-      "id": "11140521845",
-      "desc": "ارانب هولندلوب",
-      "city": "الطايف",
-      "time": "الآن",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11140521845/%D8%A7%D8%B1%D8%A7%D9%86%D8%A8_%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%84%D9%88%D8%A8/",
-      "firstSeenAt": "2025-12-04T04:00:55.452Z",
-      "lastSeenAt": "2025-12-04T04:00:55.452Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11166814964",
-      "desc": "ارمادا 2009 دبل فل كامل",
-      "city": "حائل",
-      "time": "قبل دقيقتين",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11166814964/%D8%A7%D8%B1%D9%85%D8%A7%D8%AF%D8%A7_2009_%D8%AF%D8%A8%D9%84_%D9%81%D9%84_%D9%83%D8%A7%D9%85%D9%84/",
-      "firstSeenAt": "2025-12-03T18:24:50.311Z",
-      "lastSeenAt": "2025-12-03T18:24:50.311Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11115230721",
-      "desc": "إصلاح جميع الأفران الكهربائية",
-      "city": "جده",
-      "time": "قبل دقيقتين",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11115230721/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9/",
-      "firstSeenAt": "2025-12-04T07:05:56.258Z",
-      "lastSeenAt": "2025-12-04T07:05:56.258Z",
-      "latestReplies": 13
     }
   ]
 }
