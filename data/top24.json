@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-06T13:37:09.556Z",
+  "updatedAt": "2025-12-06T13:47:55.783Z",
   "count": 300,
   "items": [
     {
@@ -122,17 +122,6 @@
       "firstSeenAt": "2025-12-05T22:22:44.652Z",
       "lastSeenAt": "2025-12-05T22:22:44.652Z",
       "latestReplies": 99
-    },
-    {
-      "id": "11153051471",
-      "desc": "شبوك لأهل الحلال",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 97,
-      "link": "https://haraj.com.sa/11153051471/%D8%B4%D8%A8%D9%88%D9%83_%D9%84%D8%A3%D9%87%D9%84_%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%84/",
-      "firstSeenAt": "2025-12-05T13:44:04.671Z",
-      "lastSeenAt": "2025-12-05T13:44:04.671Z",
-      "latestReplies": 97
     },
     {
       "id": "1197379311",
@@ -946,17 +935,6 @@
       "link": "https://haraj.com.sa/1180136067/%D8%AF%D8%B9%D8%B3%D8%A7%D8%AA_%D8%A8%D9%86%D8%B2%D9%8A%D9%86_%D9%88%D9%81%D8%B1%D8%A7%D9%85%D9%84_%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7_%D8%B1%D8%A7%D9%81_%D9%81%D9%88%D8%B1Rav_42019_2020/",
       "firstSeenAt": "2025-12-06T01:52:36.405Z",
       "lastSeenAt": "2025-12-06T01:52:36.405Z",
-      "latestReplies": 29
-    },
-    {
-      "id": "11133594313",
-      "desc": "للبيع ورق شجرة السدر كميات",
-      "city": "مكه",
-      "time": "قبل دقيقة واحدة",
-      "replies": 29,
-      "link": "https://haraj.com.sa/11133594313/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D9%88%D8%B1%D9%82_%D8%B4%D8%AC%D8%B1%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D8%B1_%D9%83%D9%85%D9%8A%D8%A7%D8%AA/",
-      "firstSeenAt": "2025-12-05T13:44:04.671Z",
-      "lastSeenAt": "2025-12-05T13:44:04.671Z",
       "latestReplies": 29
     },
     {
@@ -2046,6 +2024,17 @@
       "link": "https://haraj.com.sa/11163336954/%D9%85%D8%A7%D8%B2%D8%AF%D8%A7_62017_%D9%84%D9%84%D8%A8%D8%AF%D9%84/",
       "firstSeenAt": "2025-12-05T19:47:17.300Z",
       "lastSeenAt": "2025-12-05T19:47:17.300Z",
+      "latestReplies": 19
+    },
+    {
+      "id": "1132081518",
+      "desc": "مؤسسة الأسفلت الجنوبي للمقاولات",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 19,
+      "link": "https://haraj.com.sa/1132081518/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9_%D8%A7%D9%84%D8%A3%D8%B3%D9%81%D9%84%D8%AA_%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A_%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA/",
+      "firstSeenAt": "2025-12-06T13:47:55.783Z",
+      "lastSeenAt": "2025-12-06T13:47:55.783Z",
       "latestReplies": 19
     },
     {
@@ -3300,6 +3289,17 @@
       "link": "https://haraj.com.sa/11170288903/%D8%A8%D8%B1%D8%A7%D8%AF%D9%88/",
       "firstSeenAt": "2025-12-05T22:47:43.252Z",
       "lastSeenAt": "2025-12-05T22:47:43.252Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11113937406",
+      "desc": "برامج الصيانه alldata repair",
+      "city": "رابغ",
+      "time": "قبل دقيقتين",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11113937406/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D9%87_alldata_repair/",
+      "firstSeenAt": "2025-12-05T19:22:42.861Z",
+      "lastSeenAt": "2025-12-05T19:22:42.861Z",
       "latestReplies": 14
     }
   ]
