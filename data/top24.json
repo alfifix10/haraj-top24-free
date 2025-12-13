@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-13T14:35:42.824Z",
+  "updatedAt": "2025-12-13T14:47:57.492Z",
   "count": 300,
   "items": [
     {
@@ -803,6 +803,17 @@
       "link": "https://haraj.com.sa/11133389763/%D8%B5%D9%8A%D8%A7%D9%86%D8%A9_%D8%A3%D9%81%D8%B1%D8%A7%D9%86_%D8%BA%D8%A7%D8%B2_%D8%AA%D8%B5%D9%84%D9%8A%D8%AD_%D8%A8%D8%AA%D9%88%D8%AC%D8%A7%D8%B2%D8%AA_%D9%88%D8%AD%D9%84_%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA_%D8%BA%D8%A7%D8%B2_%D9%85%D8%A7_%D8%AA%D9%86%D8%B8%D9%8A%D9%81_%D8%A7%D9%84%D8%B9%D9%8A/",
       "firstSeenAt": "2025-12-12T23:47:51.741Z",
       "lastSeenAt": "2025-12-12T23:47:51.741Z",
+      "latestReplies": 31
+    },
+    {
+      "id": "1186965088",
+      "desc": "فساتين سهره للبيع",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 31,
+      "link": "https://haraj.com.sa/1186965088/%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86_%D8%B3%D9%87%D8%B1%D9%87_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
+      "firstSeenAt": "2025-12-13T14:47:57.492Z",
+      "lastSeenAt": "2025-12-13T14:47:57.492Z",
       "latestReplies": 31
     },
     {
@@ -3290,17 +3301,6 @@
       "firstSeenAt": "2025-12-13T04:25:29.487Z",
       "lastSeenAt": "2025-12-13T04:25:29.487Z",
       "latestReplies": 15
-    },
-    {
-      "id": "11164468425",
-      "desc": "أراضي للبيع في جميع أحياء عرعر",
-      "city": "عرعر",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11164468425/%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A_%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D9%81%D9%8A_%D8%AC%D9%85%D9%8A%D8%B9_%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1_%D8%B9%D8%B1%D8%B9%D8%B1/",
-      "firstSeenAt": "2025-12-13T08:23:42.824Z",
-      "lastSeenAt": "2025-12-13T08:23:42.824Z",
-      "latestReplies": 14
     }
   ]
 }
