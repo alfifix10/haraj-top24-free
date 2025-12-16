@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-16T20:23:42.486Z",
+  "updatedAt": "2025-12-16T20:37:58.932Z",
   "count": 300,
   "items": [
     {
@@ -913,6 +913,17 @@
       "link": "https://haraj.com.sa/11147483929/%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8_%D9%82%D9%8A%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9_%D8%A7%D9%84%D9%86%D8%A7%D8%B1%D9%8A%D8%A9_%D8%AF%D8%A8%D8%A7%D8%A8/",
       "firstSeenAt": "2025-12-16T11:48:21.642Z",
       "lastSeenAt": "2025-12-16T11:48:21.642Z",
+      "latestReplies": 27
+    },
+    {
+      "id": "11117761745",
+      "desc": "تشليح الحمدانية الجديد.",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 27,
+      "link": "https://haraj.com.sa/11117761745/%D8%AA%D8%B4%D9%84%D9%8A%D8%AD_%D8%A7%D9%84%D8%AD%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF_/",
+      "firstSeenAt": "2025-12-16T20:37:58.932Z",
+      "lastSeenAt": "2025-12-16T20:37:58.932Z",
       "latestReplies": 27
     },
     {
@@ -2195,11 +2206,11 @@
       "id": "11129036723",
       "desc": "غرف التبريد والتجميد والشييلر ومعدات المطاعم",
       "city": "الدمام",
-      "time": "الآن",
+      "time": "قبل دقيقتين",
       "replies": 18,
       "link": "https://haraj.com.sa/11129036723/%D8%BA%D8%B1%D9%81_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF_%D9%88%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%AF_%D9%88%D8%A7%D9%84%D8%B4%D9%8A%D9%8A%D9%84%D8%B1_%D9%88%D9%85%D8%B9%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85/",
       "firstSeenAt": "2025-12-16T05:50:15.782Z",
-      "lastSeenAt": "2025-12-16T05:50:15.782Z",
+      "lastSeenAt": "2025-12-16T20:37:58.932Z",
       "latestReplies": 18
     },
     {
@@ -3290,17 +3301,6 @@
       "firstSeenAt": "2025-12-16T10:40:50.536Z",
       "lastSeenAt": "2025-12-16T10:40:50.536Z",
       "latestReplies": 14
-    },
-    {
-      "id": "11154752614",
-      "desc": "6 سخانات بوفيه 9 لتر",
-      "city": "الرياض",
-      "time": "قبل دقيقة واحدة",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11154752614/6_%D8%B3%D8%AE%D8%A7%D9%86%D8%A7%D8%AA_%D8%A8%D9%88%D9%81%D9%8A%D9%87_9_%D9%84%D8%AA%D8%B1/",
-      "firstSeenAt": "2025-12-16T08:05:35.449Z",
-      "lastSeenAt": "2025-12-16T08:05:35.449Z",
-      "latestReplies": 13
     }
   ]
 }
