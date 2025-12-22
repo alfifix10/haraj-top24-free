@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-22T15:37:08.819Z",
+  "updatedAt": "2025-12-22T15:49:44.273Z",
   "count": 300,
   "items": [
     {
@@ -507,6 +507,17 @@
       "firstSeenAt": "2025-12-22T05:39:09.256Z",
       "lastSeenAt": "2025-12-22T05:39:09.256Z",
       "latestReplies": 40
+    },
+    {
+      "id": "11139864641",
+      "desc": "دولاب مطبخ صاج 6 مترشامل تركيب توصيل",
+      "city": "مكه",
+      "time": "الآن",
+      "replies": 39,
+      "link": "https://haraj.com.sa/11139864641/%D8%AF%D9%88%D9%84%D8%A7%D8%A8_%D9%85%D8%B7%D8%A8%D8%AE_%D8%B5%D8%A7%D8%AC_6_%D9%85%D8%AA%D8%B1%D8%B4%D8%A7%D9%85%D9%84_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%AA%D9%88%D8%B5%D9%8A%D9%84/",
+      "firstSeenAt": "2025-12-22T15:49:44.273Z",
+      "lastSeenAt": "2025-12-22T15:49:44.273Z",
+      "latestReplies": 39
     },
     {
       "id": "11146956865",
@@ -1169,6 +1180,17 @@
       "latestReplies": 24
     },
     {
+      "id": "11171583352",
+      "desc": "ساعة سامسونج واتش 7",
+      "city": "جده",
+      "time": "قبل دقيقتين",
+      "replies": 24,
+      "link": "https://haraj.com.sa/11171583352/%D8%B3%D8%A7%D8%B9%D8%A9_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC_%D9%88%D8%A7%D8%AA%D8%B4_7/",
+      "firstSeenAt": "2025-12-22T15:49:44.273Z",
+      "lastSeenAt": "2025-12-22T15:49:44.273Z",
+      "latestReplies": 24
+    },
+    {
       "id": "11136589273",
       "desc": "سيارة ريموت كنترول hpi",
       "city": "الرياض",
@@ -1507,6 +1529,17 @@
       "link": "https://haraj.com.sa/11170434649/%D8%AC%D9%85%D8%B3_%D8%B3%D9%8A%D9%8A%D8%B1%D8%A7_HD_2500_%D9%85%D9%88%D8%AF%D9%8A%D9%84_2002/",
       "firstSeenAt": "2025-12-21T20:04:07.131Z",
       "lastSeenAt": "2025-12-21T20:04:07.131Z",
+      "latestReplies": 21
+    },
+    {
+      "id": "11168507499",
+      "desc": "سلم مزايا",
+      "city": "خميس مشيط",
+      "time": "الآن",
+      "replies": 21,
+      "link": "https://haraj.com.sa/11168507499/%D8%B3%D9%84%D9%85_%D9%85%D8%B2%D8%A7%D9%8A%D8%A7/",
+      "firstSeenAt": "2025-12-22T15:49:44.273Z",
+      "lastSeenAt": "2025-12-22T15:49:44.273Z",
       "latestReplies": 21
     },
     {
@@ -2288,17 +2321,6 @@
       "link": "https://haraj.com.sa/11149042581/%D8%AF%D9%81%D8%A7%D9%8A%D8%A9_%D8%BA%D8%A7%D8%B2_%D8%AE%D8%A7%D8%B1%D8%AD%D9%8A%D8%A9/",
       "firstSeenAt": "2025-12-22T05:23:33.151Z",
       "lastSeenAt": "2025-12-22T05:23:33.151Z",
-      "latestReplies": 17
-    },
-    {
-      "id": "11120766454",
-      "desc": "دهان مصري بمكه المكرمه",
-      "city": "مكه",
-      "time": "قبل دقيقة واحدة",
-      "replies": 17,
-      "link": "https://haraj.com.sa/11120766454/%D8%AF%D9%87%D8%A7%D9%86_%D9%85%D8%B5%D8%B1%D9%8A_%D8%A8%D9%85%D9%83%D9%87_%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D9%87/",
-      "firstSeenAt": "2025-12-21T15:47:41.895Z",
-      "lastSeenAt": "2025-12-21T15:47:41.895Z",
       "latestReplies": 17
     },
     {
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/11149236651/%D8%B3%D8%AE%D8%A7%D9%86%D8%A7%D8%AA_%D8%A8%D9%88%D9%81%D9%8A%D9%87_%D9%81%D8%AE%D9%85%D9%87_%D8%AC%D8%AF%D8%A7_%D8%AC%D8%AF%D9%8A%D8%AF%D9%87_%D8%B5%D9%86%D8%A7%D8%B9%D9%87_%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF%D9%87_%D9%81%D8%B1%D8%B5%D9%87/",
       "firstSeenAt": "2025-12-21T23:22:30.363Z",
       "lastSeenAt": "2025-12-21T23:22:30.363Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11125120644",
-      "desc": "سرج صيني جودة عالية جدا",
-      "city": "جده",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11125120644/%D8%B3%D8%B1%D8%AC_%D8%B5%D9%8A%D9%86%D9%8A_%D8%AC%D9%88%D8%AF%D8%A9_%D8%B9%D8%A7%D9%84%D9%8A%D8%A9_%D8%AC%D8%AF%D8%A7/",
-      "firstSeenAt": "2025-12-22T09:24:27.146Z",
-      "lastSeenAt": "2025-12-22T09:24:27.146Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11110895909",
-      "desc": "شاليهات للبدر محايل عسير حي الدف",
-      "city": "محايل عسير",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11110895909/%D8%B4%D8%A7%D9%84%D9%8A%D9%87%D8%A7%D8%AA_%D9%84%D9%84%D8%A8%D8%AF%D8%B1_%D9%85%D8%AD%D8%A7%D9%8A%D9%84_%D8%B9%D8%B3%D9%8A%D8%B1_%D8%AD%D9%8A_%D8%A7%D9%84%D8%AF%D9%81/",
-      "firstSeenAt": "2025-12-21T20:36:12.057Z",
-      "lastSeenAt": "2025-12-21T20:36:12.057Z",
       "latestReplies": 14
     }
   ]
