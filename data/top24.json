@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-23T15:49:42.678Z",
+  "updatedAt": "2025-12-23T16:04:37.648Z",
   "count": 300,
   "items": [
     {
@@ -397,17 +397,6 @@
       "firstSeenAt": "2025-12-22T17:36:21.251Z",
       "lastSeenAt": "2025-12-22T17:36:21.251Z",
       "latestReplies": 40
-    },
-    {
-      "id": "11139864641",
-      "desc": "دولاب مطبخ صاج 6 مترشامل تركيب توصيل",
-      "city": "مكه",
-      "time": "الآن",
-      "replies": 39,
-      "link": "https://haraj.com.sa/11139864641/%D8%AF%D9%88%D9%84%D8%A7%D8%A8_%D9%85%D8%B7%D8%A8%D8%AE_%D8%B5%D8%A7%D8%AC_6_%D9%85%D8%AA%D8%B1%D8%B4%D8%A7%D9%85%D9%84_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%AA%D9%88%D8%B5%D9%8A%D9%84/",
-      "firstSeenAt": "2025-12-22T15:49:44.273Z",
-      "lastSeenAt": "2025-12-22T15:49:44.273Z",
-      "latestReplies": 39
     },
     {
       "id": "1198773909",
@@ -1114,17 +1103,6 @@
       "latestReplies": 24
     },
     {
-      "id": "11171583352",
-      "desc": "ساعة سامسونج واتش 7",
-      "city": "جده",
-      "time": "قبل دقيقتين",
-      "replies": 24,
-      "link": "https://haraj.com.sa/11171583352/%D8%B3%D8%A7%D8%B9%D8%A9_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC_%D9%88%D8%A7%D8%AA%D8%B4_7/",
-      "firstSeenAt": "2025-12-22T15:49:44.273Z",
-      "lastSeenAt": "2025-12-22T15:49:44.273Z",
-      "latestReplies": 24
-    },
-    {
       "id": "11155750536",
       "desc": "شاليه أجار يومي متوفر مبيت وخيمة شعر",
       "city": "بريدة",
@@ -1441,17 +1419,6 @@
       "link": "https://haraj.com.sa/11162358703/%D8%B3%D9%84%D9%81%D8%B1%D8%A7%D8%AF%D9%88_2018/",
       "firstSeenAt": "2025-12-22T16:40:27.363Z",
       "lastSeenAt": "2025-12-22T16:40:27.363Z",
-      "latestReplies": 21
-    },
-    {
-      "id": "11168507499",
-      "desc": "سلم مزايا",
-      "city": "خميس مشيط",
-      "time": "الآن",
-      "replies": 21,
-      "link": "https://haraj.com.sa/11168507499/%D8%B3%D9%84%D9%85_%D9%85%D8%B2%D8%A7%D9%8A%D8%A7/",
-      "firstSeenAt": "2025-12-22T15:49:44.273Z",
-      "lastSeenAt": "2025-12-22T15:49:44.273Z",
       "latestReplies": 21
     },
     {
@@ -3300,6 +3267,39 @@
       "link": "https://haraj.com.sa/11167866235/%D8%AC%D9%87%D8%A7%D8%B2_%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B4%D9%86/",
       "firstSeenAt": "2025-12-23T13:15:05.756Z",
       "lastSeenAt": "2025-12-23T13:15:05.756Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11159273917",
+      "desc": "جهاز تتبع المركبات الاحترافي",
+      "city": "الطايف",
+      "time": "الآن",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11159273917/%D8%AC%D9%87%D8%A7%D8%B2_%D8%AA%D8%AA%D8%A8%D8%B9_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A/",
+      "firstSeenAt": "2025-12-23T13:15:05.756Z",
+      "lastSeenAt": "2025-12-23T13:15:05.756Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11157769708",
+      "desc": "جهاز سير رياضي و جهاز الاوبتكال",
+      "city": "الرياض",
+      "time": "قبل دقيقة واحدة",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11157769708/%D8%AC%D9%87%D8%A7%D8%B2_%D8%B3%D9%8A%D8%B1_%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A_%D9%88_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A7%D9%84%D8%A7%D9%88%D8%A8%D8%AA%D9%83%D8%A7%D9%84/",
+      "firstSeenAt": "2025-12-23T10:04:36.895Z",
+      "lastSeenAt": "2025-12-23T10:04:36.895Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11171455617",
+      "desc": "جوز لوري رد وريمبو",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11171455617/%D8%AC%D9%88%D8%B2_%D9%84%D9%88%D8%B1%D9%8A_%D8%B1%D8%AF_%D9%88%D8%B1%D9%8A%D9%85%D8%A8%D9%88/",
+      "firstSeenAt": "2025-12-23T11:22:40.411Z",
+      "lastSeenAt": "2025-12-23T11:22:40.411Z",
       "latestReplies": 14
     }
   ]
