@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-27T14:22:28.544Z",
+  "updatedAt": "2025-12-27T14:36:09.216Z",
   "count": 300,
   "items": [
     {
@@ -2819,17 +2819,6 @@
       "latestReplies": 15
     },
     {
-      "id": "11104399113",
-      "desc": "اراضي الجله",
-      "city": "الرياض",
-      "time": "قبل ٣ دقائق",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11104399113/%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A_%D8%A7%D9%84%D8%AC%D9%84%D9%87/",
-      "firstSeenAt": "2025-12-26T14:23:21.300Z",
-      "lastSeenAt": "2025-12-26T14:23:21.300Z",
-      "latestReplies": 14
-    },
-    {
       "id": "11162783415",
       "desc": "ارض للبيع",
       "city": "صبيا",
@@ -3300,6 +3289,17 @@
       "link": "https://haraj.com.sa/11159971644/%D8%AD%D8%B3%D8%A7%D8%A8_%D8%A8%D8%A8%D8%AC%D9%8A/",
       "firstSeenAt": "2025-12-27T03:14:26.604Z",
       "lastSeenAt": "2025-12-27T03:14:26.604Z",
+      "latestReplies": 13
+    },
+    {
+      "id": "11170917542",
+      "desc": "دباب هاوجو160 DL يعتبر جديد",
+      "city": "مكه",
+      "time": "الآن",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11170917542/%D8%AF%D8%A8%D8%A7%D8%A8_%D9%87%D8%A7%D9%88%D8%AC%D9%88160_DL_%D9%8A%D8%B9%D8%AA%D8%A8%D8%B1_%D8%AC%D8%AF%D9%8A%D8%AF/",
+      "firstSeenAt": "2025-12-26T18:53:30.456Z",
+      "lastSeenAt": "2025-12-26T18:53:30.456Z",
       "latestReplies": 13
     }
   ]
