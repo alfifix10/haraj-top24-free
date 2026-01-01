@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-01T07:10:47.765Z",
+  "updatedAt": "2026-01-01T07:23:30.573Z",
   "count": 300,
   "items": [
     {
@@ -157,6 +157,17 @@
       "latestReplies": 75
     },
     {
+      "id": "11129496084",
+      "desc": "شنطة شاص مع تانكي ماء 100 لتر متوفر تمارا وتابي و stcpay",
+      "city": "حائل",
+      "time": "الآن",
+      "replies": 72,
+      "link": "https://haraj.com.sa/11129496084/%D8%B4%D9%86%D8%B7%D8%A9_%D8%B4%D8%A7%D8%B5_%D9%85%D8%B9_%D8%AA%D8%A7%D9%86%D9%83%D9%8A_%D9%85%D8%A7%D8%A1_100_%D9%84%D8%AA%D8%B1_%D9%85%D8%AA%D9%88%D9%81%D8%B1_%D8%AA%D9%85%D8%A7%D8%B1%D8%A7_%D9%88%D8%AA%D8%A7%D8%A8%D9%8A_%D9%88_stcpay/",
+      "firstSeenAt": "2026-01-01T07:23:30.573Z",
+      "lastSeenAt": "2026-01-01T07:23:30.573Z",
+      "latestReplies": 72
+    },
+    {
       "id": "1166647175",
       "desc": "ملحمةحاشي السفرة خميس مشيط",
       "city": "خميس مشيط",
@@ -221,17 +232,6 @@
       "firstSeenAt": "2025-12-31T15:23:02.976Z",
       "lastSeenAt": "2025-12-31T15:23:02.976Z",
       "latestReplies": 61
-    },
-    {
-      "id": "11120512483",
-      "desc": "شاليه مع مسبح كبار واطفال والعاب للايجار يومي",
-      "city": "حفر الباطن",
-      "time": "قبل ٣ دقائق",
-      "replies": 55,
-      "link": "https://haraj.com.sa/11120512483/%D8%B4%D8%A7%D9%84%D9%8A%D9%87_%D9%85%D8%B9_%D9%85%D8%B3%D8%A8%D8%AD_%D9%83%D8%A8%D8%A7%D8%B1_%D9%88%D8%A7%D8%B7%D9%81%D8%A7%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D8%A8_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1_%D9%8A%D9%88%D9%85%D9%8A/",
-      "firstSeenAt": "2025-12-31T07:11:02.348Z",
-      "lastSeenAt": "2025-12-31T07:11:02.348Z",
-      "latestReplies": 55
     },
     {
       "id": "11171399306",
@@ -1070,17 +1070,6 @@
       "latestReplies": 25
     },
     {
-      "id": "11114888277",
-      "desc": "للبيع صناديق قطع غيار الكترونيات بالدمام",
-      "city": "الدمام",
-      "time": "قبل دقيقة واحدة",
-      "replies": 25,
-      "link": "https://haraj.com.sa/11114888277/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%B5%D9%86%D8%A7%D8%AF%D9%8A%D9%82_%D9%82%D8%B7%D8%B9_%D8%BA%D9%8A%D8%A7%D8%B1_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA_%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/",
-      "firstSeenAt": "2025-12-31T07:11:02.348Z",
-      "lastSeenAt": "2025-12-31T07:11:02.348Z",
-      "latestReplies": 25
-    },
-    {
       "id": "11135950871",
       "desc": "مقاولات عامه جيزان وضواحيها",
       "city": "صبيا",
@@ -1532,17 +1521,6 @@
       "latestReplies": 21
     },
     {
-      "id": "11116575599",
-      "desc": "بوتاجاز مسطح",
-      "city": "مكه",
-      "time": "قبل ٣ دقائق",
-      "replies": 20,
-      "link": "https://haraj.com.sa/11116575599/%D8%A8%D9%88%D8%AA%D8%A7%D8%AC%D8%A7%D8%B2_%D9%85%D8%B3%D8%B7%D8%AD/",
-      "firstSeenAt": "2025-12-31T07:11:02.348Z",
-      "lastSeenAt": "2025-12-31T07:11:02.348Z",
-      "latestReplies": 20
-    },
-    {
       "id": "11133697913",
       "desc": "حراثه فنت 308 دبل",
       "city": "بريدة",
@@ -1595,6 +1573,17 @@
       "link": "https://haraj.com.sa/11165838321/%D9%81%D9%88%D8%B1_%D8%AA%D9%86%D8%B4%D8%B1_2011/",
       "firstSeenAt": "2025-12-31T23:48:18.028Z",
       "lastSeenAt": "2025-12-31T23:48:18.028Z",
+      "latestReplies": 20
+    },
+    {
+      "id": "11165083982",
+      "desc": "كرفانات بركسات برتبلات غرف شينكو بيوت جاهزه متنقله",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 20,
+      "link": "https://haraj.com.sa/11165083982/%D9%83%D8%B1%D9%81%D8%A7%D9%86%D8%A7%D8%AA_%D8%A8%D8%B1%D9%83%D8%B3%D8%A7%D8%AA_%D8%A8%D8%B1%D8%AA%D8%A8%D9%84%D8%A7%D8%AA_%D8%BA%D8%B1%D9%81_%D8%B4%D9%8A%D9%86%D9%83%D9%88_%D8%A8%D9%8A%D9%88%D8%AA_%D8%AC%D8%A7%D9%87%D8%B2%D9%87_%D9%85%D8%AA%D9%86%D9%82%D9%84%D9%87/",
+      "firstSeenAt": "2026-01-01T07:23:30.573Z",
+      "lastSeenAt": "2026-01-01T07:23:30.573Z",
       "latestReplies": 20
     },
     {
@@ -1917,6 +1906,17 @@
       "latestReplies": 18
     },
     {
+      "id": "11134497102",
+      "desc": "عرض اليوم الوطني كرسي مساج جهاز استرخاء كرسي هزاز كرسي تدليك",
+      "city": "الرياض",
+      "time": "قبل دقيقة واحدة",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11134497102/%D8%B9%D8%B1%D8%B6_%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D9%83%D8%B1%D8%B3%D9%8A_%D9%85%D8%B3%D8%A7%D8%AC_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A7%D8%B3%D8%AA%D8%B1%D8%AE%D8%A7%D8%A1_%D9%83%D8%B1%D8%B3%D9%8A_%D9%87%D8%B2%D8%A7%D8%B2_%D9%83%D8%B1%D8%B3%D9%8A_%D8%AA%D8%AF%D9%84%D9%8A%D9%83/",
+      "firstSeenAt": "2026-01-01T07:23:30.573Z",
+      "lastSeenAt": "2026-01-01T07:23:30.573Z",
+      "latestReplies": 18
+    },
+    {
       "id": "11169501930",
       "desc": "فورد اكسبلور 2014",
       "city": "الرياض",
@@ -1958,6 +1958,17 @@
       "link": "https://haraj.com.sa/11158790697/%D9%83%D8%B1%D9%8A%D9%85_%D8%A7%D9%85_%D8%AD%D8%B3%D9%86/",
       "firstSeenAt": "2025-12-31T23:48:18.028Z",
       "lastSeenAt": "2025-12-31T23:48:18.028Z",
+      "latestReplies": 18
+    },
+    {
+      "id": "11166932732",
+      "desc": "Dji osmo pocket 3 اخت الجديدة",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11166932732/Dji_osmo_pocket_3_%D8%A7%D8%AE%D8%AA_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/",
+      "firstSeenAt": "2026-01-01T07:23:30.573Z",
+      "lastSeenAt": "2026-01-01T07:23:30.573Z",
       "latestReplies": 18
     },
     {
@@ -2665,6 +2676,17 @@
       "latestReplies": 15
     },
     {
+      "id": "11170788714",
+      "desc": "فورد جراند ماركيز إصدار خاص 100 عام",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11170788714/%D9%81%D9%88%D8%B1%D8%AF_%D8%AC%D8%B1%D8%A7%D9%86%D8%AF_%D9%85%D8%A7%D8%B1%D9%83%D9%8A%D8%B2_%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1_%D8%AE%D8%A7%D8%B5_100_%D8%B9%D8%A7%D9%85/",
+      "firstSeenAt": "2026-01-01T07:23:30.573Z",
+      "lastSeenAt": "2026-01-01T07:23:30.573Z",
+      "latestReplies": 15
+    },
+    {
       "id": "11155254231",
       "desc": "كابريس 1979 كلاسيك مجدد",
       "city": "سكاكا",
@@ -2849,6 +2871,17 @@
       "link": "https://haraj.com.sa/11159006248/%D8%AC%D9%84%D9%8A_%D8%A8%D9%84%D8%A7%D8%B7_%D8%AA%D9%84%D9%85%D9%8A%D8%B9_%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83_%D8%AA%D9%86%D8%B8%D9%8A%D9%81_%D9%81%D9%84%D9%84_%D8%B4%D9%82%D9%82_%D8%AE%D8%B2%D8%A7%D9%86%D8%A7%D8%AA_%D9%85%D8%AC%D8%A7%D9%84%D8%B3_%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA/",
       "firstSeenAt": "2025-12-31T09:38:41.315Z",
       "lastSeenAt": "2025-12-31T09:38:41.315Z",
+      "latestReplies": 14
+    },
+    {
+      "id": "11164118391",
+      "desc": "جيب لكزس نظيف ماشاء الله",
+      "city": "الرياض",
+      "time": "الآن",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11164118391/%D8%AC%D9%8A%D8%A8_%D9%84%D9%83%D8%B2%D8%B3_%D9%86%D8%B8%D9%8A%D9%81_%D9%85%D8%A7%D8%B4%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%87/",
+      "firstSeenAt": "2026-01-01T07:23:30.573Z",
+      "lastSeenAt": "2026-01-01T07:23:30.573Z",
       "latestReplies": 14
     },
     {
@@ -3160,17 +3193,6 @@
       "latestReplies": 13
     },
     {
-      "id": "11171389129",
-      "desc": "النترا 2017",
-      "city": "المدينة",
-      "time": "قبل دقيقتين",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11171389129/%D8%A7%D9%84%D9%86%D8%AA%D8%B1%D8%A7_2017/",
-      "firstSeenAt": "2025-12-31T07:11:02.348Z",
-      "lastSeenAt": "2025-12-31T07:11:02.348Z",
-      "latestReplies": 13
-    },
-    {
       "id": "11134031856",
       "desc": "تشليح اكسنت 2024",
       "city": "الرياض",
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/11101580880/%D8%B3%D8%AA%D8%A7%D8%A6%D8%B1_%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D9%87/",
       "firstSeenAt": "2025-12-31T08:55:03.413Z",
       "lastSeenAt": "2025-12-31T08:55:03.413Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11146712713",
-      "desc": "سليبر نايك جوردان Nike Jordan slipper",
-      "city": "جده",
-      "time": "قبل ٤ دقائق",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11146712713/%D8%B3%D9%84%D9%8A%D8%A8%D8%B1_%D9%86%D8%A7%D9%8A%D9%83_%D8%AC%D9%88%D8%B1%D8%AF%D8%A7%D9%86_Nike_Jordan_slipper/",
-      "firstSeenAt": "2026-01-01T04:00:37.734Z",
-      "lastSeenAt": "2026-01-01T04:00:37.734Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11127812684",
-      "desc": "شتلات مختلفه بأسعار مميزه",
-      "city": "الطايف",
-      "time": "قبل ٣ دقائق",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11127812684/%D8%B4%D8%AA%D9%84%D8%A7%D8%AA_%D9%85%D8%AE%D8%AA%D9%84%D9%81%D9%87_%D8%A8%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%85%D9%85%D9%8A%D8%B2%D9%87/",
-      "firstSeenAt": "2025-12-31T15:23:02.976Z",
-      "lastSeenAt": "2025-12-31T15:23:02.976Z",
       "latestReplies": 13
     }
   ]
