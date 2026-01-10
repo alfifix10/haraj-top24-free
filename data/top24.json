@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-10T04:55:29.083Z",
+  "updatedAt": "2026-01-10T05:05:16.909Z",
   "count": 300,
   "items": [
     {
@@ -1136,6 +1136,17 @@
       "latestReplies": 26
     },
     {
+      "id": "11162084828",
+      "desc": "جيب لكزس 2006",
+      "city": "الطايف",
+      "time": "الآن",
+      "replies": 26,
+      "link": "https://haraj.com.sa/11162084828/%D8%AC%D9%8A%D8%A8_%D9%84%D9%83%D8%B2%D8%B3_2006/",
+      "firstSeenAt": "2026-01-10T05:05:16.909Z",
+      "lastSeenAt": "2026-01-10T05:05:16.909Z",
+      "latestReplies": 26
+    },
+    {
       "id": "11130346437",
       "desc": "سطول بويه",
       "city": "الطايف",
@@ -1651,6 +1662,17 @@
       "firstSeenAt": "2026-01-09T23:35:30.648Z",
       "lastSeenAt": "2026-01-09T23:35:30.648Z",
       "latestReplies": 22
+    },
+    {
+      "id": "11165304132",
+      "desc": "اكسنت 2013 للبيع",
+      "city": "المذنب",
+      "time": "الآن",
+      "replies": 21,
+      "link": "https://haraj.com.sa/11165304132/%D8%A7%D9%83%D8%B3%D9%86%D8%AA_2013_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
+      "firstSeenAt": "2026-01-10T05:05:16.909Z",
+      "lastSeenAt": "2026-01-10T05:05:16.909Z",
+      "latestReplies": 21
     },
     {
       "id": "11161941142",
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/11134598156/%D8%AF%D8%B1%D9%85%D8%B2_%D9%8A%D8%A7%D9%85%D8%A7%D9%87%D8%A7_%D8%B7%D8%A8%D9%88%D9%84_%D8%B7%D8%A8%D9%84/",
       "firstSeenAt": "2026-01-09T20:49:58.416Z",
       "lastSeenAt": "2026-01-09T20:49:58.416Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11150141581",
-      "desc": "زيت زيتون اصلي بكر نخب أول",
-      "city": "المدينة",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11150141581/%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_%D8%A7%D8%B5%D9%84%D9%8A_%D8%A8%D9%83%D8%B1_%D9%86%D8%AE%D8%A8_%D8%A3%D9%88%D9%84/",
-      "firstSeenAt": "2026-01-09T19:22:43.572Z",
-      "lastSeenAt": "2026-01-09T19:22:43.572Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11165177382",
-      "desc": "سرير طبي كهربائي",
-      "city": "جده",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11165177382/%D8%B3%D8%B1%D9%8A%D8%B1_%D8%B7%D8%A8%D9%8A_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A/",
-      "firstSeenAt": "2026-01-09T07:27:28.015Z",
-      "lastSeenAt": "2026-01-09T07:27:28.015Z",
       "latestReplies": 14
     }
   ]
