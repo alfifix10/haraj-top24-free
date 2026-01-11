@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-11T19:03:15.398Z",
+  "updatedAt": "2026-01-11T19:21:53.157Z",
   "count": 300,
   "items": [
     {
@@ -1375,6 +1375,17 @@
       "link": "https://haraj.com.sa/11115671893/%D8%A7%D8%B1%D8%B6_%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9_%D9%82%D8%B1%D9%8A%D8%A8%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D9%84%D9%8A%D8%AB_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1_%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A/",
       "firstSeenAt": "2026-01-11T15:48:04.093Z",
       "lastSeenAt": "2026-01-11T15:48:04.093Z",
+      "latestReplies": 21
+    },
+    {
+      "id": "11168971986",
+      "desc": "تويوتا يارس 2013",
+      "city": "نجران",
+      "time": "قبل دقيقة واحدة",
+      "replies": 21,
+      "link": "https://haraj.com.sa/11168971986/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7_%D9%8A%D8%A7%D8%B1%D8%B3_2013/",
+      "firstSeenAt": "2026-01-11T19:21:53.157Z",
+      "lastSeenAt": "2026-01-11T19:21:53.157Z",
       "latestReplies": 21
     },
     {
@@ -3270,6 +3281,17 @@
       "latestReplies": 13
     },
     {
+      "id": "11172700588",
+      "desc": "رانجلر 6 سلندر للبيع روبيكون",
+      "city": "جده",
+      "time": "قبل دقيقتين",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11172700588/%D8%B1%D8%A7%D9%86%D8%AC%D9%84%D8%B1_6_%D8%B3%D9%84%D9%86%D8%AF%D8%B1_%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%B1%D9%88%D8%A8%D9%8A%D9%83%D9%88%D9%86/",
+      "firstSeenAt": "2026-01-11T19:21:53.157Z",
+      "lastSeenAt": "2026-01-11T19:21:53.157Z",
+      "latestReplies": 13
+    },
+    {
       "id": "11152084254",
       "desc": "رخال نجاده جذعان",
       "city": "المدينة",
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/11152084254/%D8%B1%D8%AE%D8%A7%D9%84_%D9%86%D8%AC%D8%A7%D8%AF%D9%87_%D8%AC%D8%B0%D8%B9%D8%A7%D9%86/",
       "firstSeenAt": "2026-01-11T04:00:26.877Z",
       "lastSeenAt": "2026-01-11T04:00:26.877Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11156675288",
-      "desc": "زوليه تركي4 4 البيع ب300",
-      "city": "المدينة",
-      "time": "الآن",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11156675288/%D8%B2%D9%88%D9%84%D9%8A%D9%87_%D8%AA%D8%B1%D9%83%D9%8A4_4_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9_%D8%A8300/",
-      "firstSeenAt": "2026-01-11T07:48:03.917Z",
-      "lastSeenAt": "2026-01-11T07:48:03.917Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11104205554",
-      "desc": "سماد دجاج لزراعة دمن دجاج",
-      "city": "المدينة",
-      "time": "الآن",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11104205554/%D8%B3%D9%85%D8%A7%D8%AF_%D8%AF%D8%AC%D8%A7%D8%AC_%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9_%D8%AF%D9%85%D9%86_%D8%AF%D8%AC%D8%A7%D8%AC/",
-      "firstSeenAt": "2026-01-11T11:33:57.513Z",
-      "lastSeenAt": "2026-01-11T11:33:57.513Z",
       "latestReplies": 13
     }
   ]
