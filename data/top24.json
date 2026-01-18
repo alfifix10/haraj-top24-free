@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T17:22:33.737Z",
+  "updatedAt": "2026-01-18T17:35:22.244Z",
   "count": 300,
   "items": [
     {
@@ -331,6 +331,17 @@
       "firstSeenAt": "2026-01-18T17:22:33.737Z",
       "lastSeenAt": "2026-01-18T17:22:33.737Z",
       "latestReplies": 56
+    },
+    {
+      "id": "1176173149",
+      "desc": "مدرس قدرات كمي ولفظي الرياض",
+      "city": "الرياض",
+      "time": "الآن",
+      "replies": 55,
+      "link": "https://haraj.com.sa/1176173149/%D9%85%D8%AF%D8%B1%D8%B3_%D9%82%D8%AF%D8%B1%D8%A7%D8%AA_%D9%83%D9%85%D9%8A_%D9%88%D9%84%D9%81%D8%B8%D9%8A_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/",
+      "firstSeenAt": "2026-01-18T17:35:22.244Z",
+      "lastSeenAt": "2026-01-18T17:35:22.244Z",
+      "latestReplies": 55
     },
     {
       "id": "11144631967",
@@ -825,6 +836,17 @@
       "link": "https://haraj.com.sa/11147824575/%D8%AF%D9%8A%D9%86%D9%85%D9%88_%D9%85%D9%88%D9%84%D8%AF_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1_%D9%81%D9%82%D8%B7_KVA140%D9%83%D9%8A%D9%84%D9%88_%D9%88%D8%A7%D8%B7_%D8%B3%D8%AA%D8%A7%D9%85%D9%81%D9%88%D8%B1%D8%AF_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A/",
       "firstSeenAt": "2026-01-18T00:15:36.967Z",
       "lastSeenAt": "2026-01-18T00:15:36.967Z",
+      "latestReplies": 29
+    },
+    {
+      "id": "11143619301",
+      "desc": "راوتر هواوي 5G فايف جي",
+      "city": "المدينة",
+      "time": "قبل دقيقتين",
+      "replies": 29,
+      "link": "https://haraj.com.sa/11143619301/%D8%B1%D8%A7%D9%88%D8%AA%D8%B1_%D9%87%D9%88%D8%A7%D9%88%D9%8A_5G_%D9%81%D8%A7%D9%8A%D9%81_%D8%AC%D9%8A/",
+      "firstSeenAt": "2026-01-18T17:35:22.244Z",
+      "lastSeenAt": "2026-01-18T17:35:22.244Z",
       "latestReplies": 29
     },
     {
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/1171582360/%D9%85%D9%82%D8%A7%D8%B9%D8%AF_%D9%88%D9%83%D8%B1%D8%A7%D8%B3%D9%8A_%D9%88%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA_%D9%84%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D9%88%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A%D9%87%D8%A7%D8%AA_%D9%83%D9%86%D8%A8_%D9%88%D8%B3%D8%AA%D8%A7%D8%A6%D8%B1/",
       "firstSeenAt": "2026-01-18T05:12:05.021Z",
       "lastSeenAt": "2026-01-18T05:12:05.021Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11167916096",
-      "desc": "مكتب",
-      "city": "الهفوف",
-      "time": "الآن",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11167916096/%D9%85%D9%83%D8%AA%D8%A8/",
-      "firstSeenAt": "2026-01-18T11:47:32.515Z",
-      "lastSeenAt": "2026-01-18T11:47:32.515Z",
-      "latestReplies": 14
-    },
-    {
-      "id": "11172787002",
-      "desc": "هايلكس 2004",
-      "city": "بريدة",
-      "time": "قبل دقيقتين",
-      "replies": 14,
-      "link": "https://haraj.com.sa/11172787002/%D9%87%D8%A7%D9%8A%D9%84%D9%83%D8%B3_2004/",
-      "firstSeenAt": "2026-01-18T09:48:41.144Z",
-      "lastSeenAt": "2026-01-18T09:48:41.144Z",
       "latestReplies": 14
     }
   ]
