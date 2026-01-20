@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T15:12:37.508Z",
+  "updatedAt": "2026-01-20T15:27:19.512Z",
   "count": 300,
   "items": [
     {
@@ -1639,6 +1639,17 @@
       "link": "https://haraj.com.sa/1167985273/%D8%AA%D8%B4%D9%84%D9%8A%D8%AD_%D8%A7%D9%84%D8%AD%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D9%87/",
       "firstSeenAt": "2026-01-20T12:06:38.495Z",
       "lastSeenAt": "2026-01-20T12:06:38.495Z",
+      "latestReplies": 18
+    },
+    {
+      "id": "11146544614",
+      "desc": "سباك مكه المكرمة",
+      "city": "مكه",
+      "time": "قبل دقيقتين",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11146544614/%D8%B3%D8%A8%D8%A7%D9%83_%D9%85%D9%83%D9%87_%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9/",
+      "firstSeenAt": "2026-01-20T15:27:19.512Z",
+      "lastSeenAt": "2026-01-20T15:27:19.512Z",
       "latestReplies": 18
     },
     {
@@ -3289,17 +3300,6 @@
       "link": "https://haraj.com.sa/11165756701/%D8%AC%D9%87%D8%A7%D8%B2_%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9_%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D9%86%D8%AA/",
       "firstSeenAt": "2026-01-20T14:57:32.577Z",
       "lastSeenAt": "2026-01-20T14:57:32.577Z",
-      "latestReplies": 12
-    },
-    {
-      "id": "11104232327",
-      "desc": "خلاص إفطار صائم منزوع النوى جملة",
-      "city": "بريدة",
-      "time": "قبل ٣ دقائق",
-      "replies": 12,
-      "link": "https://haraj.com.sa/11104232327/%D8%AE%D9%84%D8%A7%D8%B5_%D8%A5%D9%81%D8%B7%D8%A7%D8%B1_%D8%B5%D8%A7%D8%A6%D9%85_%D9%85%D9%86%D8%B2%D9%88%D8%B9_%D8%A7%D9%84%D9%86%D9%88%D9%89_%D8%AC%D9%85%D9%84%D8%A9/",
-      "firstSeenAt": "2026-01-19T20:38:19.545Z",
-      "lastSeenAt": "2026-01-19T20:38:19.545Z",
       "latestReplies": 12
     }
   ]
