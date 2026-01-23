@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T22:03:49.526Z",
+  "updatedAt": "2026-01-23T22:22:33.798Z",
   "count": 300,
   "items": [
     {
@@ -276,6 +276,17 @@
       "firstSeenAt": "2026-01-23T07:40:26.390Z",
       "lastSeenAt": "2026-01-23T07:40:26.390Z",
       "latestReplies": 51
+    },
+    {
+      "id": "1177129869",
+      "desc": "اسواق الدواس (مكة المكرمه)",
+      "city": "مكه",
+      "time": "قبل ٤ دقائق",
+      "replies": 50,
+      "link": "https://haraj.com.sa/1177129869/%D8%A7%D8%B3%D9%88%D8%A7%D9%82_%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%B3%D9%85%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D9%87_/",
+      "firstSeenAt": "2026-01-23T22:22:33.798Z",
+      "lastSeenAt": "2026-01-23T22:22:33.798Z",
+      "latestReplies": 50
     },
     {
       "id": "11129312059",
@@ -905,6 +916,17 @@
       "latestReplies": 26
     },
     {
+      "id": "11172721544",
+      "desc": "بي ام دبليو 530i Kit M",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 26,
+      "link": "https://haraj.com.sa/11172721544/%D8%A8%D9%8A_%D8%A7%D9%85_%D8%AF%D8%A8%D9%84%D9%8A%D9%88_530i_Kit_M/",
+      "firstSeenAt": "2026-01-23T22:22:33.798Z",
+      "lastSeenAt": "2026-01-23T22:22:33.798Z",
+      "latestReplies": 26
+    },
+    {
       "id": "11149130088",
       "desc": "تنظيف وصيانه مكيفات بجده",
       "city": "جده",
@@ -1012,17 +1034,6 @@
       "link": "https://haraj.com.sa/11146634315/%D8%B9%D8%B4%D8%A8_%D8%B5%D9%86%D8%A7%D8%B9%D9%89_%D8%A7%D9%82%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1/",
       "firstSeenAt": "2026-01-23T13:59:12.629Z",
       "lastSeenAt": "2026-01-23T13:59:12.629Z",
-      "latestReplies": 25
-    },
-    {
-      "id": "1126322161",
-      "desc": "مدرس انجليزي متخصص في STEP IELTS PET",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 25,
-      "link": "https://haraj.com.sa/1126322161/%D9%85%D8%AF%D8%B1%D8%B3_%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A_%D9%85%D8%AA%D8%AE%D8%B5%D8%B5_%D9%81%D9%8A_STEP_IELTS_PET/",
-      "firstSeenAt": "2026-01-22T22:04:38.151Z",
-      "lastSeenAt": "2026-01-22T22:04:38.151Z",
       "latestReplies": 25
     },
     {
@@ -1331,17 +1342,6 @@
       "link": "https://haraj.com.sa/11168178937/%D8%AF%D8%A7%D8%B4_%D9%83%D8%A7%D9%85_%D8%A8%D8%A7%D8%B1%D8%A8%D8%B9_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%AA%D9%82%D8%AF%D8%B1_%D8%AA%D8%B7%D9%84%D8%A8_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC_%D9%85%D9%86_%D8%AE%D9%84%D8%A7%D9%84_%D8%B2%D8%B1_%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D8%A1/",
       "firstSeenAt": "2026-01-23T19:48:32.181Z",
       "lastSeenAt": "2026-01-23T19:48:32.181Z",
-      "latestReplies": 21
-    },
-    {
-      "id": "1183213397",
-      "desc": "رقم خمسات مميز ( تم البيع ).",
-      "city": "جده",
-      "time": "قبل ٤ دقائق",
-      "replies": 21,
-      "link": "https://haraj.com.sa/1183213397/%D8%B1%D9%82%D9%85_%D8%AE%D9%85%D8%B3%D8%A7%D8%AA_%D9%85%D9%85%D9%8A%D8%B2_%D8%AA%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9_/",
-      "firstSeenAt": "2026-01-22T22:04:38.151Z",
-      "lastSeenAt": "2026-01-22T22:04:38.151Z",
       "latestReplies": 21
     },
     {
@@ -1793,6 +1793,17 @@
       "link": "https://haraj.com.sa/11159742363/%D8%B4%D8%A7%D9%84%D9%8A%D9%87_%D9%83%D9%84%D9%8A%D9%85%D8%A7%D9%86%D8%B3_%D8%A7%D9%84%D8%B9%D9%81%D8%AC%D9%87/",
       "firstSeenAt": "2026-01-23T10:04:55.290Z",
       "lastSeenAt": "2026-01-23T10:04:55.290Z",
+      "latestReplies": 18
+    },
+    {
+      "id": "11164028060",
+      "desc": "شمعات وا مرايه اكسنت 2010",
+      "city": "الدمام",
+      "time": "قبل دقيقتين",
+      "replies": 18,
+      "link": "https://haraj.com.sa/11164028060/%D8%B4%D9%85%D8%B9%D8%A7%D8%AA_%D9%88%D8%A7_%D9%85%D8%B1%D8%A7%D9%8A%D9%87_%D8%A7%D9%83%D8%B3%D9%86%D8%AA_2010/",
+      "firstSeenAt": "2026-01-23T22:22:33.798Z",
+      "lastSeenAt": "2026-01-23T22:22:33.798Z",
       "latestReplies": 18
     },
     {
@@ -3083,6 +3094,17 @@
       "latestReplies": 13
     },
     {
+      "id": "11154800678",
+      "desc": "شاليه ناش الفندقيه",
+      "city": "جده",
+      "time": "قبل دقيقتين",
+      "replies": 13,
+      "link": "https://haraj.com.sa/11154800678/%D8%B4%D8%A7%D9%84%D9%8A%D9%87_%D9%86%D8%A7%D8%B4_%D8%A7%D9%84%D9%81%D9%86%D8%AF%D9%82%D9%8A%D9%87/",
+      "firstSeenAt": "2026-01-23T22:22:33.798Z",
+      "lastSeenAt": "2026-01-23T22:22:33.798Z",
+      "latestReplies": 13
+    },
+    {
       "id": "11139288379",
       "desc": "فندق الرائد الذهبية فرع 1 بالطائف - يوجد لدينا ايجار شهري",
       "city": "الطايف",
@@ -3182,17 +3204,6 @@
       "latestReplies": 13
     },
     {
-      "id": "11167891618",
-      "desc": "كيا 2022",
-      "city": "الدمام",
-      "time": "الآن",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11167891618/%D9%83%D9%8A%D8%A7_2022/",
-      "firstSeenAt": "2026-01-22T22:04:38.151Z",
-      "lastSeenAt": "2026-01-22T22:04:38.151Z",
-      "latestReplies": 13
-    },
-    {
       "id": "11172719985",
       "desc": "كيا اوبتيما جي تي GT 2016",
       "city": "مكه",
@@ -3289,17 +3300,6 @@
       "link": "https://haraj.com.sa/11161456129/%D8%A7%D9%81_%D8%AC%D9%8A_2_2019_%D9%88%D8%B1%D8%A7%D8%AF_%D8%A7%D9%84%D9%8A%D8%AD%D9%8A%D9%89/",
       "firstSeenAt": "2026-01-23T10:41:48.416Z",
       "lastSeenAt": "2026-01-23T10:41:48.416Z",
-      "latestReplies": 12
-    },
-    {
-      "id": "11173541786",
-      "desc": "ايفون 13",
-      "city": "بريدة",
-      "time": "الآن",
-      "replies": 12,
-      "link": "https://haraj.com.sa/11173541786/%D8%A7%D9%8A%D9%81%D9%88%D9%86_13/",
-      "firstSeenAt": "2026-01-23T11:04:42.591Z",
-      "lastSeenAt": "2026-01-23T11:04:42.591Z",
       "latestReplies": 12
     }
   ]
