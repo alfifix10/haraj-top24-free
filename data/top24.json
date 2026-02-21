@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T21:04:29.002Z",
+  "updatedAt": "2026-02-21T21:23:15.854Z",
   "count": 300,
   "items": [
     {
@@ -254,6 +254,17 @@
       "firstSeenAt": "2026-02-21T14:40:58.422Z",
       "lastSeenAt": "2026-02-21T14:40:58.422Z",
       "latestReplies": 51
+    },
+    {
+      "id": "11152360043",
+      "desc": "نقل عفش ونيت داخل المدينه باقل الاسعار",
+      "city": "المدينة",
+      "time": "قبل دقيقة واحدة",
+      "replies": 50,
+      "link": "https://haraj.com.sa/11152360043/%D9%86%D9%82%D9%84_%D8%B9%D9%81%D8%B4_%D9%88%D9%86%D9%8A%D8%AA_%D8%AF%D8%A7%D8%AE%D9%84_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D9%87_%D8%A8%D8%A7%D9%82%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1/",
+      "firstSeenAt": "2026-02-21T21:23:15.854Z",
+      "lastSeenAt": "2026-02-21T21:23:15.854Z",
+      "latestReplies": 50
     },
     {
       "id": "11110424636",
@@ -1851,6 +1862,17 @@
       "latestReplies": 16
     },
     {
+      "id": "11145934833",
+      "desc": "فورد اكسبلورر 2008",
+      "city": "المبرز",
+      "time": "الآن",
+      "replies": 16,
+      "link": "https://haraj.com.sa/11145934833/%D9%81%D9%88%D8%B1%D8%AF_%D8%A7%D9%83%D8%B3%D8%A8%D9%84%D9%88%D8%B1%D8%B1_2008/",
+      "firstSeenAt": "2026-02-21T21:23:15.854Z",
+      "lastSeenAt": "2026-02-21T21:23:15.854Z",
+      "latestReplies": 16
+    },
+    {
       "id": "11168031018",
       "desc": "لكزس ES350 2022",
       "city": "بريدة",
@@ -3278,28 +3300,6 @@
       "link": "https://haraj.com.sa/11167989025/%D8%AB%D9%84%D8%A7%D8%AC%D9%87_%D8%B1%D8%AD%D9%84%D8%A7%D8%AA/",
       "firstSeenAt": "2026-02-21T16:05:05.365Z",
       "lastSeenAt": "2026-02-21T16:05:05.365Z",
-      "latestReplies": 11
-    },
-    {
-      "id": "11172952583",
-      "desc": "ثلاجه فريزر",
-      "city": "بريدة",
-      "time": "قبل دقيقتين",
-      "replies": 11,
-      "link": "https://haraj.com.sa/11172952583/%D8%AB%D9%84%D8%A7%D8%AC%D9%87_%D9%81%D8%B1%D9%8A%D8%B2%D8%B1/",
-      "firstSeenAt": "2026-02-21T09:25:02.280Z",
-      "lastSeenAt": "2026-02-21T09:25:02.280Z",
-      "latestReplies": 11
-    },
-    {
-      "id": "11175322594",
-      "desc": "جلاكسي اس 23 الترا",
-      "city": "جده",
-      "time": "قبل دقيقتين",
-      "replies": 11,
-      "link": "https://haraj.com.sa/11175322594/%D8%AC%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%A7%D8%B3_23_%D8%A7%D9%84%D8%AA%D8%B1%D8%A7/",
-      "firstSeenAt": "2026-02-20T23:24:17.846Z",
-      "lastSeenAt": "2026-02-20T23:24:17.846Z",
       "latestReplies": 11
     }
   ]
