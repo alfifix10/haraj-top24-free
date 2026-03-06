@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T07:28:46.005Z",
+  "updatedAt": "2026-03-06T07:47:04.979Z",
   "count": 300,
   "items": [
     {
@@ -78,6 +78,17 @@
       "firstSeenAt": "2026-03-06T05:46:46.400Z",
       "lastSeenAt": "2026-03-06T05:46:46.400Z",
       "latestReplies": 71
+    },
+    {
+      "id": "1176738572",
+      "desc": "العريكة الجنوبية والحنيني",
+      "city": "الدرعية",
+      "time": "قبل ٣ دقائق",
+      "replies": 66,
+      "link": "https://haraj.com.sa/1176738572/%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D9%83%D8%A9_%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%AD%D9%86%D9%8A%D9%86%D9%8A/",
+      "firstSeenAt": "2026-03-06T07:47:04.979Z",
+      "lastSeenAt": "2026-03-06T07:47:04.979Z",
+      "latestReplies": 66
     },
     {
       "id": "11107070027",
@@ -199,17 +210,6 @@
       "firstSeenAt": "2026-03-05T22:27:58.374Z",
       "lastSeenAt": "2026-03-05T22:27:58.374Z",
       "latestReplies": 48
-    },
-    {
-      "id": "1174722404",
-      "desc": "حليب ولبن الغنم الطازج",
-      "city": "جده",
-      "time": "قبل ٣ دقائق",
-      "replies": 45,
-      "link": "https://haraj.com.sa/1174722404/%D8%AD%D9%84%D9%8A%D8%A8_%D9%88%D9%84%D8%A8%D9%86_%D8%A7%D9%84%D8%BA%D9%86%D9%85_%D8%A7%D9%84%D8%B7%D8%A7%D8%B2%D8%AC/",
-      "firstSeenAt": "2026-03-05T07:44:58.518Z",
-      "lastSeenAt": "2026-03-05T07:44:58.518Z",
-      "latestReplies": 45
     },
     {
       "id": "1196910327",
@@ -344,6 +344,17 @@
       "latestReplies": 34
     },
     {
+      "id": "11162126495",
+      "desc": "اورفان نيسان 2008 ديزل نظيفه للإجار او للبيع",
+      "city": "خميس مشيط",
+      "time": "قبل ٧ دقائق",
+      "replies": 32,
+      "link": "https://haraj.com.sa/11162126495/%D8%A7%D9%88%D8%B1%D9%81%D8%A7%D9%86_%D9%86%D9%8A%D8%B3%D8%A7%D9%86_2008_%D8%AF%D9%8A%D8%B2%D9%84_%D9%86%D8%B8%D9%8A%D9%81%D9%87_%D9%84%D9%84%D8%A5%D8%AC%D8%A7%D8%B1_%D8%A7%D9%88_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
+      "firstSeenAt": "2026-03-06T07:47:04.979Z",
+      "lastSeenAt": "2026-03-06T07:47:04.979Z",
+      "latestReplies": 32
+    },
+    {
       "id": "11116413249",
       "desc": "طاولات خدمه",
       "city": "جده",
@@ -364,17 +375,6 @@
       "firstSeenAt": "2026-03-06T03:34:31.889Z",
       "lastSeenAt": "2026-03-06T03:34:31.889Z",
       "latestReplies": 32
-    },
-    {
-      "id": "11144990307",
-      "desc": "حساسات ضغط هواء الكفرات للسيارات اليابانيه الامريكيه الصينه",
-      "city": "مكه",
-      "time": "قبل ٣ دقائق",
-      "replies": 31,
-      "link": "https://haraj.com.sa/11144990307/%D8%AD%D8%B3%D8%A7%D8%B3%D8%A7%D8%AA_%D8%B6%D8%BA%D8%B7_%D9%87%D9%88%D8%A7%D8%A1_%D8%A7%D9%84%D9%83%D9%81%D8%B1%D8%A7%D8%AA_%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D9%87_%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%87_%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%87/",
-      "firstSeenAt": "2026-03-05T07:44:58.518Z",
-      "lastSeenAt": "2026-03-05T07:44:58.518Z",
-      "latestReplies": 31
     },
     {
       "id": "11144849530",
@@ -495,17 +495,6 @@
       "link": "https://haraj.com.sa/11146168253/%D9%83%D9%86%D8%A8_%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83_5_%D9%82%D8%B7%D8%B9_%D9%85%D8%B9_%D8%B7%D8%A7%D9%88%D9%84%D9%87_%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A%D9%87_%D9%88%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA_%D8%AE%D8%AF%D9%85%D9%87/",
       "firstSeenAt": "2026-03-05T21:17:25.044Z",
       "lastSeenAt": "2026-03-05T21:17:25.044Z",
-      "latestReplies": 28
-    },
-    {
-      "id": "11136022248",
-      "desc": "لاصحاب الجينيسس جي سبعين فقط الله يحييكم Genesis G70",
-      "city": "الرياض",
-      "time": "قبل ٦ دقائق",
-      "replies": 28,
-      "link": "https://haraj.com.sa/11136022248/%D9%84%D8%A7%D8%B5%D8%AD%D8%A7%D8%A8_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%8A%D8%B3%D8%B3_%D8%AC%D9%8A_%D8%B3%D8%A8%D8%B9%D9%8A%D9%86_%D9%81%D9%82%D8%B7_%D8%A7%D9%84%D9%84%D9%87_%D9%8A%D8%AD%D9%8A%D9%8A%D9%83%D9%85_Genesis_G70/",
-      "firstSeenAt": "2026-03-05T07:44:58.518Z",
-      "lastSeenAt": "2026-03-05T07:44:58.518Z",
       "latestReplies": 28
     },
     {
@@ -1675,17 +1664,6 @@
       "latestReplies": 16
     },
     {
-      "id": "11110770716",
-      "desc": "للبيع العاب اطفال مراجيح زحاليق ربل نطيطات",
-      "city": "الرياض",
-      "time": "قبل ٥ دقائق",
-      "replies": 16,
-      "link": "https://haraj.com.sa/11110770716/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%A7%D9%84%D8%B9%D8%A7%D8%A8_%D8%A7%D8%B7%D9%81%D8%A7%D9%84_%D9%85%D8%B1%D8%A7%D8%AC%D9%8A%D8%AD_%D8%B2%D8%AD%D8%A7%D9%84%D9%8A%D9%82_%D8%B1%D8%A8%D9%84_%D9%86%D8%B7%D9%8A%D8%B7%D8%A7%D8%AA/",
-      "firstSeenAt": "2026-03-05T07:44:58.518Z",
-      "lastSeenAt": "2026-03-05T07:44:58.518Z",
-      "latestReplies": 16
-    },
-    {
       "id": "11102723552",
       "desc": "يوجد لدينا صيانة وتفصيل مطابخ المنيوم",
       "city": "مكه",
@@ -2357,6 +2335,17 @@
       "latestReplies": 13
     },
     {
+      "id": "1193726865",
+      "desc": "اعلان وايت صهليج مياة عذبه تبوك",
+      "city": "تبوك",
+      "time": "الآن",
+      "replies": 12,
+      "link": "https://haraj.com.sa/1193726865/%D8%A7%D8%B9%D9%84%D8%A7%D9%86_%D9%88%D8%A7%D9%8A%D8%AA_%D8%B5%D9%87%D9%84%D9%8A%D8%AC_%D9%85%D9%8A%D8%A7%D8%A9_%D8%B9%D8%B0%D8%A8%D9%87_%D8%AA%D8%A8%D9%88%D9%83/",
+      "firstSeenAt": "2026-03-06T07:47:04.979Z",
+      "lastSeenAt": "2026-03-06T07:47:04.979Z",
+      "latestReplies": 12
+    },
+    {
       "id": "11164011051",
       "desc": "افالون موديل 2013",
       "city": "أبها",
@@ -2409,6 +2398,17 @@
       "link": "https://haraj.com.sa/11136051094/%D8%A8%D9%88%D8%A8%D9%83%D8%A7%D8%AA_%D9%84%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1_%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A/",
       "firstSeenAt": "2026-03-06T07:28:46.005Z",
       "lastSeenAt": "2026-03-06T07:28:46.005Z",
+      "latestReplies": 12
+    },
+    {
+      "id": "11137763446",
+      "desc": "حجر كريم للبيع",
+      "city": "المدينة",
+      "time": "قبل ٤ دقائق",
+      "replies": 12,
+      "link": "https://haraj.com.sa/11137763446/%D8%AD%D8%AC%D8%B1_%D9%83%D8%B1%D9%8A%D9%85_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
+      "firstSeenAt": "2026-03-06T07:47:04.979Z",
+      "lastSeenAt": "2026-03-06T07:47:04.979Z",
       "latestReplies": 12
     },
     {
@@ -2599,17 +2599,6 @@
       "latestReplies": 12
     },
     {
-      "id": "11174731355",
-      "desc": "ميني بي سي Minisforum Mini PC",
-      "city": "الرياض",
-      "time": "الآن",
-      "replies": 12,
-      "link": "https://haraj.com.sa/11174731355/%D9%85%D9%8A%D9%86%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A_Minisforum_Mini_PC/",
-      "firstSeenAt": "2026-03-05T07:44:58.518Z",
-      "lastSeenAt": "2026-03-05T07:44:58.518Z",
-      "latestReplies": 12
-    },
-    {
       "id": "11168200236",
       "desc": "ناقه صفراء لقحه وطيبه للحليب",
       "city": "تبوك",
@@ -2695,17 +2684,6 @@
       "link": "https://haraj.com.sa/11164056139/%D8%A8%D9%88%D8%B1%D8%AC%D9%83%D8%AA%D8%B1_%D8%AC%D8%AF%D9%8A%D8%AF_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%B4%D9%87%D8%B1_%D9%88%D8%A7%D8%AD%D8%AF_%D9%81%D9%82%D8%B7/",
       "firstSeenAt": "2026-03-05T21:58:22.198Z",
       "lastSeenAt": "2026-03-05T21:58:22.198Z",
-      "latestReplies": 11
-    },
-    {
-      "id": "11172622892",
-      "desc": "تابلت ريد ماجيك استرا",
-      "city": "الدوادمي",
-      "time": "قبل دقيقتين",
-      "replies": 11,
-      "link": "https://haraj.com.sa/11172622892/%D8%AA%D8%A7%D8%A8%D9%84%D8%AA_%D8%B1%D9%8A%D8%AF_%D9%85%D8%A7%D8%AC%D9%8A%D9%83_%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7/",
-      "firstSeenAt": "2026-03-05T07:44:58.518Z",
-      "lastSeenAt": "2026-03-05T07:44:58.518Z",
       "latestReplies": 11
     },
     {
@@ -3300,6 +3278,28 @@
       "link": "https://haraj.com.sa/11167816829/%D8%B1%D8%A7%D9%88%D8%AA%D8%B1_5g_%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%D9%8A%D8%AC%D8%AF%D9%8A%D8%AF_/",
       "firstSeenAt": "2026-03-05T10:14:18.519Z",
       "lastSeenAt": "2026-03-05T10:14:18.519Z",
+      "latestReplies": 10
+    },
+    {
+      "id": "11158340603",
+      "desc": "رقم مميز STC",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 10,
+      "link": "https://haraj.com.sa/11158340603/%D8%B1%D9%82%D9%85_%D9%85%D9%85%D9%8A%D8%B2_STC/",
+      "firstSeenAt": "2026-03-05T23:59:11.940Z",
+      "lastSeenAt": "2026-03-05T23:59:11.940Z",
+      "latestReplies": 10
+    },
+    {
+      "id": "11145063367",
+      "desc": "ساوند بار سامسونق Soundbar Samsung C450 مضخم صوت مسرح منزلي",
+      "city": "الرياض",
+      "time": "قبل ٩ دقائق",
+      "replies": 10,
+      "link": "https://haraj.com.sa/11145063367/%D8%B3%D8%A7%D9%88%D9%86%D8%AF_%D8%A8%D8%A7%D8%B1_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D9%82_Soundbar_Samsung_C450_%D9%85%D8%B6%D8%AE%D9%85_%D8%B5%D9%88%D8%AA_%D9%85%D8%B3%D8%B1%D8%AD_%D9%85%D9%86%D8%B2%D9%84%D9%8A/",
+      "firstSeenAt": "2026-03-06T06:14:14.716Z",
+      "lastSeenAt": "2026-03-06T06:14:14.716Z",
       "latestReplies": 10
     }
   ]
