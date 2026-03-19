@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-19T10:30:19.963Z",
+  "updatedAt": "2026-03-19T10:51:41.040Z",
   "count": 300,
   "items": [
-    {
-      "id": "11150380370",
-      "desc": "غرف نوم جديده",
-      "city": "الرياض",
-      "time": "قبل دقيقتين",
-      "replies": 200,
-      "link": "https://haraj.com.sa/11150380370/%D8%BA%D8%B1%D9%81_%D9%86%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF%D9%87/",
-      "firstSeenAt": "2026-03-18T10:33:54.701Z",
-      "lastSeenAt": "2026-03-18T10:33:54.701Z",
-      "latestReplies": 200
-    },
     {
       "id": "1158334001",
       "desc": "لبان لامي درجة اولى",
@@ -385,17 +374,6 @@
       "link": "https://haraj.com.sa/11167152948/%D8%AC%D9%8A%D8%A8_%D9%84%D8%A7%D9%86%D8%AF%D9%83%D8%B1%D9%88%D8%B2%D8%B1_2001_GX_R/",
       "firstSeenAt": "2026-03-18T17:07:48.484Z",
       "lastSeenAt": "2026-03-18T17:07:48.484Z",
-      "latestReplies": 34
-    },
-    {
-      "id": "11138955499",
-      "desc": "فرن اربع عيون بيسك",
-      "city": "الخرج",
-      "time": "قبل ٥ دقائق",
-      "replies": 34,
-      "link": "https://haraj.com.sa/11138955499/%D9%81%D8%B1%D9%86_%D8%A7%D8%B1%D8%A8%D8%B9_%D8%B9%D9%8A%D9%88%D9%86_%D8%A8%D9%8A%D8%B3%D9%83/",
-      "firstSeenAt": "2026-03-18T10:33:54.701Z",
-      "lastSeenAt": "2026-03-18T10:33:54.701Z",
       "latestReplies": 34
     },
     {
@@ -1081,6 +1059,17 @@
       "latestReplies": 21
     },
     {
+      "id": "1198768057",
+      "desc": "توصيل معلمات خارج ينبع",
+      "city": "ينبع",
+      "time": "قبل ٣ دقائق",
+      "replies": 21,
+      "link": "https://haraj.com.sa/1198768057/%D8%AA%D9%88%D8%B5%D9%8A%D9%84_%D9%85%D8%B9%D9%84%D9%85%D8%A7%D8%AA_%D8%AE%D8%A7%D8%B1%D8%AC_%D9%8A%D9%86%D8%A8%D8%B9/",
+      "firstSeenAt": "2026-03-19T10:51:41.040Z",
+      "lastSeenAt": "2026-03-19T10:51:41.040Z",
+      "latestReplies": 21
+    },
+    {
       "id": "11133295261",
       "desc": "شاليهات إليقينت جدة التيسير م",
       "city": "جده",
@@ -1301,6 +1290,17 @@
       "latestReplies": 19
     },
     {
+      "id": "11114404988",
+      "desc": "طاقة شمسية",
+      "city": "الدوادمي",
+      "time": "قبل دقيقة واحدة",
+      "replies": 19,
+      "link": "https://haraj.com.sa/11114404988/%D8%B7%D8%A7%D9%82%D8%A9_%D8%B4%D9%85%D8%B3%D9%8A%D8%A9/",
+      "firstSeenAt": "2026-03-19T10:51:41.040Z",
+      "lastSeenAt": "2026-03-19T10:51:41.040Z",
+      "latestReplies": 19
+    },
+    {
       "id": "11103810103",
       "desc": "كاميرا نيكون D7100",
       "city": "الرس",
@@ -1331,6 +1331,17 @@
       "link": "https://haraj.com.sa/11119238495/%D9%83%D9%81%D8%B1%D8%A7%D8%AA_%D9%85%D9%86%D8%B9_%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A%D8%A9_%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA/",
       "firstSeenAt": "2026-03-19T01:38:22.385Z",
       "lastSeenAt": "2026-03-19T01:38:22.385Z",
+      "latestReplies": 19
+    },
+    {
+      "id": "11163291987",
+      "desc": "للايجار بوبكات جديد مع سواق ارامكو",
+      "city": "الخبر",
+      "time": "قبل دقيقتين",
+      "replies": 19,
+      "link": "https://haraj.com.sa/11163291987/%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1_%D8%A8%D9%88%D8%A8%D9%83%D8%A7%D8%AA_%D8%AC%D8%AF%D9%8A%D8%AF_%D9%85%D8%B9_%D8%B3%D9%88%D8%A7%D9%82_%D8%A7%D8%B1%D8%A7%D9%85%D9%83%D9%88/",
+      "firstSeenAt": "2026-03-19T10:51:41.040Z",
+      "lastSeenAt": "2026-03-19T10:51:41.040Z",
       "latestReplies": 19
     },
     {
@@ -1375,6 +1386,17 @@
       "link": "https://haraj.com.sa/11162851472/%D9%87%D9%88%D8%A7%D9%86%D8%AF_%D8%A7%D9%88%D8%AF%D8%B3%D9%8A_%D9%84%D9%84%D8%A8%D9%8A%D8%B9/",
       "firstSeenAt": "2026-03-18T18:33:47.585Z",
       "lastSeenAt": "2026-03-18T18:33:47.585Z",
+      "latestReplies": 19
+    },
+    {
+      "id": "11169349418",
+      "desc": "هيلوكس موديل 90 مجدده مفحوص منوه المستخدم",
+      "city": "الباحة",
+      "time": "قبل دقيقتين",
+      "replies": 19,
+      "link": "https://haraj.com.sa/11169349418/%D9%87%D9%8A%D9%84%D9%88%D9%83%D8%B3_%D9%85%D9%88%D8%AF%D9%8A%D9%84_90_%D9%85%D8%AC%D8%AF%D8%AF%D9%87_%D9%85%D9%81%D8%AD%D9%88%D8%B5_%D9%85%D9%86%D9%88%D9%87_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85/",
+      "firstSeenAt": "2026-03-19T10:51:41.040Z",
+      "lastSeenAt": "2026-03-19T10:51:41.040Z",
       "latestReplies": 19
     },
     {
@@ -1573,17 +1595,6 @@
       "link": "https://haraj.com.sa/1197262255/%D8%AF%D9%88%D8%A7%D9%84%D9%8A%D8%A8_%D8%AE%D8%B2%D8%A7%D8%A6%D9%86_%D9%85%D8%B7%D8%A8%D8%AE/",
       "firstSeenAt": "2026-03-18T17:07:48.484Z",
       "lastSeenAt": "2026-03-18T17:07:48.484Z",
-      "latestReplies": 17
-    },
-    {
-      "id": "11176921671",
-      "desc": "رخل نعيمية",
-      "city": "البدائع",
-      "time": "قبل ٤ دقائق",
-      "replies": 17,
-      "link": "https://haraj.com.sa/11176921671/%D8%B1%D8%AE%D9%84_%D9%86%D8%B9%D9%8A%D9%85%D9%8A%D8%A9/",
-      "firstSeenAt": "2026-03-18T10:33:54.701Z",
-      "lastSeenAt": "2026-03-18T10:33:54.701Z",
       "latestReplies": 17
     },
     {
@@ -2673,17 +2684,6 @@
       "link": "https://haraj.com.sa/11174285436/%D8%AC%D9%8A%D8%A8_%D8%B1%D8%A8%D8%B9_%D9%85%D8%B5%D9%86%D8%AF/",
       "firstSeenAt": "2026-03-18T17:07:48.484Z",
       "lastSeenAt": "2026-03-18T17:07:48.484Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "11168826982",
-      "desc": "حديد (مراجيح وكراسي وزحليقات واعمده)",
-      "city": "حفر الباطن",
-      "time": "قبل ٤ دقائق",
-      "replies": 13,
-      "link": "https://haraj.com.sa/11168826982/%D8%AD%D8%AF%D9%8A%D8%AF%D9%85%D8%B1%D8%A7%D8%AC%D9%8A%D8%AD_%D9%88%D9%83%D8%B1%D8%A7%D8%B3%D9%8A_%D9%88%D8%B2%D8%AD%D9%84%D9%8A%D9%82%D8%A7%D8%AA_%D9%88%D8%A7%D8%B9%D9%85%D8%AF%D9%87_/",
-      "firstSeenAt": "2026-03-18T10:33:54.701Z",
-      "lastSeenAt": "2026-03-18T10:33:54.701Z",
       "latestReplies": 13
     },
     {
