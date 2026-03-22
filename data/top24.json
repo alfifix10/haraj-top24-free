@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-22T11:06:04.549Z",
+  "updatedAt": "2026-03-22T11:23:32.602Z",
   "count": 300,
   "items": [
+    {
+      "id": "11150380370",
+      "desc": "غرف نوم جديده",
+      "city": "الرياض",
+      "time": "قبل دقيقتين",
+      "replies": 200,
+      "link": "https://haraj.com.sa/11150380370/%D8%BA%D8%B1%D9%81_%D9%86%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF%D9%87/",
+      "firstSeenAt": "2026-03-22T11:23:32.602Z",
+      "lastSeenAt": "2026-03-22T11:23:32.602Z",
+      "latestReplies": 200
+    },
     {
       "id": "11136097348",
       "desc": "كمبروسر مكيف كرولا ايكو XA يارس سوبارو ترسل من 1998 إلى 2024",
@@ -144,6 +155,17 @@
       "firstSeenAt": "2026-03-22T09:15:03.255Z",
       "lastSeenAt": "2026-03-22T09:15:03.255Z",
       "latestReplies": 68
+    },
+    {
+      "id": "11142268822",
+      "desc": "للبيع اكسبلور مخبط ومسقط2009",
+      "city": "عيون الجواء",
+      "time": "قبل دقيقة واحدة",
+      "replies": 65,
+      "link": "https://haraj.com.sa/11142268822/%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D8%A7%D9%83%D8%B3%D8%A8%D9%84%D9%88%D8%B1_%D9%85%D8%AE%D8%A8%D8%B7_%D9%88%D9%85%D8%B3%D9%82%D8%B72009/",
+      "firstSeenAt": "2026-03-22T11:23:32.602Z",
+      "lastSeenAt": "2026-03-22T11:23:32.602Z",
+      "latestReplies": 65
     },
     {
       "id": "11119083858",
@@ -487,17 +509,6 @@
       "latestReplies": 36
     },
     {
-      "id": "11141867297",
-      "desc": "تصليح و صيانة يد سوني 5 و 4 قير",
-      "city": "الطايف",
-      "time": "قبل ٤ دقائق",
-      "replies": 35,
-      "link": "https://haraj.com.sa/11141867297/%D8%AA%D8%B5%D9%84%D9%8A%D8%AD_%D9%88_%D8%B5%D9%8A%D8%A7%D9%86%D8%A9_%D9%8A%D8%AF_%D8%B3%D9%88%D9%86%D9%8A_5_%D9%88_4_%D9%82%D9%8A%D8%B1/",
-      "firstSeenAt": "2026-03-21T11:23:15.167Z",
-      "lastSeenAt": "2026-03-21T11:23:15.167Z",
-      "latestReplies": 35
-    },
-    {
       "id": "1157036776",
       "desc": "جهاز شفط للوجه مع هدية",
       "city": "الرياض",
@@ -573,17 +584,6 @@
       "firstSeenAt": "2026-03-21T17:52:10.397Z",
       "lastSeenAt": "2026-03-21T17:52:10.397Z",
       "latestReplies": 34
-    },
-    {
-      "id": "11159197752",
-      "desc": "الحجامه النبويه والوقائيه والعلاجيه",
-      "city": "بريدة",
-      "time": "قبل دقيقة واحدة",
-      "replies": 33,
-      "link": "https://haraj.com.sa/11159197752/%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D9%85%D9%87_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D9%87_%D9%88%D8%A7%D9%84%D9%88%D9%82%D8%A7%D8%A6%D9%8A%D9%87_%D9%88%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC%D9%8A%D9%87/",
-      "firstSeenAt": "2026-03-21T11:23:15.167Z",
-      "lastSeenAt": "2026-03-21T11:23:15.167Z",
-      "latestReplies": 33
     },
     {
       "id": "11162317599",
@@ -1532,17 +1532,6 @@
       "latestReplies": 21
     },
     {
-      "id": "11145503213",
-      "desc": "اراضي متميزه للاستثمار",
-      "city": "الشنان",
-      "time": "قبل ٤ دقائق",
-      "replies": 20,
-      "link": "https://haraj.com.sa/11145503213/%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A_%D9%85%D8%AA%D9%85%D9%8A%D8%B2%D9%87_%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1/",
-      "firstSeenAt": "2026-03-21T11:23:15.167Z",
-      "lastSeenAt": "2026-03-21T11:23:15.167Z",
-      "latestReplies": 20
-    },
-    {
       "id": "11136011143",
       "desc": "ازولا للبيع",
       "city": "الجموم",
@@ -1760,6 +1749,17 @@
       "link": "https://haraj.com.sa/11148619315/%D8%AD%D8%AF%D8%A7%D8%AF_%D9%85%D8%B3%D9%84%D8%AD_%D9%85%D8%B9%D9%84%D9%85/",
       "firstSeenAt": "2026-03-22T07:28:41.443Z",
       "lastSeenAt": "2026-03-22T07:28:41.443Z",
+      "latestReplies": 19
+    },
+    {
+      "id": "11165108556",
+      "desc": "حوش غنم",
+      "city": "تبوك",
+      "time": "قبل دقيقتين",
+      "replies": 19,
+      "link": "https://haraj.com.sa/11165108556/%D8%AD%D9%88%D8%B4_%D8%BA%D9%86%D9%85/",
+      "firstSeenAt": "2026-03-22T11:23:32.602Z",
+      "lastSeenAt": "2026-03-22T11:23:32.602Z",
       "latestReplies": 19
     },
     {
@@ -2247,6 +2247,17 @@
       "latestReplies": 17
     },
     {
+      "id": "11140222473",
+      "desc": "معلم بويه وديكورات داخلي وخارجي",
+      "city": "جده",
+      "time": "الآن",
+      "replies": 17,
+      "link": "https://haraj.com.sa/11140222473/%D9%85%D8%B9%D9%84%D9%85_%D8%A8%D9%88%D9%8A%D9%87_%D9%88%D8%AF%D9%8A%D9%83%D9%88%D8%B1%D8%A7%D8%AA_%D8%AF%D8%A7%D8%AE%D9%84%D9%8A_%D9%88%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/",
+      "firstSeenAt": "2026-03-22T11:23:32.602Z",
+      "lastSeenAt": "2026-03-22T11:23:32.602Z",
+      "latestReplies": 17
+    },
+    {
       "id": "11161538070",
       "desc": "نقل عفش بالمدينة",
       "city": "المدينة",
@@ -2343,17 +2354,6 @@
       "link": "https://haraj.com.sa/11174590537/%D8%B9%D9%85%D9%84%D9%87_%D9%82%D8%AF%D9%8A%D9%85%D8%A9_%D9%81%D8%A6%D8%A9_50_%D8%B1%D9%8A%D8%A7%D9%84/",
       "firstSeenAt": "2026-03-21T23:23:29.597Z",
       "lastSeenAt": "2026-03-21T23:23:29.597Z",
-      "latestReplies": 16
-    },
-    {
-      "id": "11165305350",
-      "desc": "غسالة صحون اريستون اخت الجديدة",
-      "city": "ضرما",
-      "time": "قبل ٤ دقائق",
-      "replies": 16,
-      "link": "https://haraj.com.sa/11165305350/%D8%BA%D8%B3%D8%A7%D9%84%D8%A9_%D8%B5%D8%AD%D9%88%D9%86_%D8%A7%D8%B1%D9%8A%D8%B3%D8%AA%D9%88%D9%86_%D8%A7%D8%AE%D8%AA_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/",
-      "firstSeenAt": "2026-03-21T11:23:15.167Z",
-      "lastSeenAt": "2026-03-21T11:23:15.167Z",
       "latestReplies": 16
     },
     {
@@ -2486,17 +2486,6 @@
       "link": "https://haraj.com.sa/1181623724/%D9%85%D9%8A%D8%B2%D8%A7%D9%86_%D9%84%D9%82%D9%8A%D8%A7%D8%B3_%D9%88%D8%B2%D9%86_%D8%A7%D9%84%D8%AC%D8%B3%D9%85_%D9%85%D9%86_%D8%B4%D8%B1%D9%83%D8%A9_conair/",
       "firstSeenAt": "2026-03-21T13:58:57.690Z",
       "lastSeenAt": "2026-03-21T13:58:57.690Z",
-      "latestReplies": 16
-    },
-    {
-      "id": "11147829982",
-      "desc": "هاردسك",
-      "city": "المبرز",
-      "time": "قبل ٣ دقائق",
-      "replies": 16,
-      "link": "https://haraj.com.sa/11147829982/%D9%87%D8%A7%D8%B1%D8%AF%D8%B3%D9%83/",
-      "firstSeenAt": "2026-03-21T11:23:15.167Z",
-      "lastSeenAt": "2026-03-21T11:23:15.167Z",
       "latestReplies": 16
     },
     {
@@ -2761,6 +2750,17 @@
       "link": "https://haraj.com.sa/11166259941/%D8%BA%D8%B3%D8%A7%D9%84%D8%A9_%D8%A7%D9%84_%D8%AC%D9%8A_Lg_10_%D9%83%D9%8A%D9%84%D9%88_%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D9%87/",
       "firstSeenAt": "2026-03-21T21:06:06.569Z",
       "lastSeenAt": "2026-03-21T21:06:06.569Z",
+      "latestReplies": 15
+    },
+    {
+      "id": "11175619942",
+      "desc": "فرد اكسبدشن",
+      "city": "سكاكا",
+      "time": "الآن",
+      "replies": 15,
+      "link": "https://haraj.com.sa/11175619942/%D9%81%D8%B1%D8%AF_%D8%A7%D9%83%D8%B3%D8%A8%D8%AF%D8%B4%D9%86/",
+      "firstSeenAt": "2026-03-22T11:23:32.602Z",
+      "lastSeenAt": "2026-03-22T11:23:32.602Z",
       "latestReplies": 15
     },
     {
@@ -3259,6 +3259,17 @@
       "latestReplies": 14
     },
     {
+      "id": "11151117241",
+      "desc": "Early - Bug Hunter I ايرلي - بق هنتر",
+      "city": "الرياض",
+      "time": "الآن",
+      "replies": 14,
+      "link": "https://haraj.com.sa/11151117241/Early_Bug_Hunter_I_%D8%A7%D9%8A%D8%B1%D9%84%D9%8A_%D8%A8%D9%82_%D9%87%D9%86%D8%AA%D8%B1/",
+      "firstSeenAt": "2026-03-22T11:23:32.602Z",
+      "lastSeenAt": "2026-03-22T11:23:32.602Z",
+      "latestReplies": 14
+    },
+    {
       "id": "11123579685",
       "desc": "استراحة الفيصل للمناسبات",
       "city": "الطايف",
@@ -3289,17 +3300,6 @@
       "link": "https://haraj.com.sa/11146248209/%D8%A7%D8%B3%D9%81%D9%84%D8%AA_%D9%85%D9%82%D8%B4%D9%88%D8%B1_%D9%85%D9%82%D8%B4%D9%88%D8%B7%D8%AC%D8%AF%D8%A9_/",
       "firstSeenAt": "2026-03-21T14:41:42.843Z",
       "lastSeenAt": "2026-03-21T14:41:42.843Z",
-      "latestReplies": 13
-    },
-    {
-      "id": "1197468028",
-      "desc": "اف جي غطاء ايرباق",
-      "city": "الرياض",
-      "time": "قبل دقيقة واحدة",
-      "replies": 13,
-      "link": "https://haraj.com.sa/1197468028/%D8%A7%D9%81_%D8%AC%D9%8A_%D8%BA%D8%B7%D8%A7%D8%A1_%D8%A7%D9%8A%D8%B1%D8%A8%D8%A7%D9%82/",
-      "firstSeenAt": "2026-03-21T12:25:24.605Z",
-      "lastSeenAt": "2026-03-21T12:25:24.605Z",
       "latestReplies": 13
     }
   ]
